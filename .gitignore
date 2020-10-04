@@ -33,7 +33,7 @@ backedn/!**/src/test/**/target/
 .idea
 *.iws
 *.iml
-*.ipr
+*.iprS
 
 ### NetBeans ###
 /nbproject/private/
