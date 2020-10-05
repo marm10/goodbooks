@@ -1,0 +1,738 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 90,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "B3uFDwAAQBAJ",
+      "etag": "1+Sc7GpnyH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B3uFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Silmarillion",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HarperCollins Brasil",
+        "publishedDate": "2019-03-18",
+        "description": "\"O Silmarillion\" é um relato dos Dias Antigos da Primeira Era do mundo criado por J.R.R. Tolkien. É a história longínqua para a qual os personagens de \"O Senhor dos Anéis\" e \"O Hobbit\" olham para trás, e em cujos eventos alguns deles, como Elrond e Galadriel, tomaram parte. Os contos de \"O Silmarillion\" se passam em uma época em que Morgoth, o Primeiro Senhor Sombrio, habitava a Terra-média, e os Altos-Elfos guerreavam contra ele pela recuperação das Silmarils, as joias que continham a pura luz de Valinor. O livro começa com \"O Ainulindalë\", o mito da criação do Universo, seguido pelo \"Valaquenta\", onde estão descritas a natureza e os poderes de cada um dos deuses. O \"Akallâbeth\" narra o apogeu e a queda do reino da grande ilha de Númenor no final da Segunda Era e \"Dos Anéis de Poder\" fala dos grandes eventos no final da Terceira Era, como narrado em \"O Senhor dos Anéis\".",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B3uFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B3uFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=B3uFDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B3uFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B3uFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B3uFDwAAQBAJ&rdid=book-B3uFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Silmarillion-sample-epub.acsm?id=B3uFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;O Silmarillion&quot; é um relato dos Dias Antigos da Primeira Era do mundo criado por J.R.R. Tolkien. É a história longínqua para a qual os personagens de &quot;O Senhor dos Anéis&quot; e &quot;O Hobbit&quot; olham para trás, e em cujos eventos alguns deles, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R7KuDwAAQBAJ",
+      "etag": "FO6QIR3gDIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R7KuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2019-11-25",
+        "description": "A Sociedade do Anel O volume inicial de O Senhor dos Anéis, lançado originalmente em julho de 1954, foi o primeiro grande épico de fantasia moderno, conquistando milhões de leitores e se tornando o padrão de referência para todas as outras obras do gênero até hoje. A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real. A Sociedade do Anel começa no Condado, a região rural do oeste da Terra-média onde vivem os diminutos e pacatos hobbits. Bilbo Bolseiro, um dos raros aventureiros desse povo, cujas peripécias foram contadas em O Hobbit, resolve ir embora do Condado e deixa sua considerável herança nas mãos de seu jovem parente Frodo. O mais importante legado de Bilbo é o anel mágico que costumava usar para se tornar invisível. No entanto, o mago Gandalf, companheiro de aventuras do velho hobbit, revela a Frodo que o objeto é o Um Anel, a raiz do poder demoníaco de Sauron, o Senhor Sombrio, que deseja escravizar todos os povos da Terra-média. A única maneira de eliminar a ameaça de Sauron é destruir o Um Anel nas entranhas da própria montanha de fogo onde foi forjado. A revelação faz com que Frodo e seus companheiros hobbits Sam, Merry e Pippin deixem a segurança do Condado e iniciem uma perigosa jornada rumo ao leste. Ao lado de representantes dos outros Povos Livres que resistem ao Senhor Sombrio, eles formam a Sociedade do Anel. Alguém uma vez disse que o mundo dos leitores de língua inglesa se divide entre os que já leram O Senhor dos Anéis e os que um dia lerão o livro. Com esta nova tradução da obra, o fascínio dessa aventura atemporal ficará ainda mais evidente para os leitores brasileiros, tanto os que já conhecem a saga como os que estão prestes a descobrir seu encanto.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R7KuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R7KuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=R7KuDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ&rdid=book-R7KuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_dos_An%C3%A9is_A_Sociedade_do_Anel-sample-epub.acsm?id=R7KuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eVevDwAAQBAJ",
+      "etag": "yNrAA+SG6v4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eVevDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Box Trilogia O Senhor dos Anéis",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2019-11-25",
+        "description": "Apesar de ter sido publicado em três volumes – A Sociedade do Anel, As Duas Torres e O Retorno do Rei – desde os anos 1950, O Senhor dos Anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido em seu conjunto, segundo a concepção de seu autor, J.R.R. Tolkien. Com design cuidadosamente pensado para refletir a unidade da obra e os desenhos originais feitos por Tolkien para as capas de cada volume, este box reúne os três livros da Saga do Anel e oferece aos leitores uma nova oportunidade de mergulhar no notável mundo da Terra-média.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eVevDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eVevDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=eVevDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 129.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 123.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ&rdid=book-eVevDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 129900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 123400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Box_Trilogia_O_Senhor_dos_An%C3%A9is-sample-epub.acsm?id=eVevDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Apesar de ter sido publicado em três volumes – A Sociedade do Anel, As Duas Torres e O Retorno do Rei – desde os anos 1950, O Senhor dos Anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kNBJDwAAQBAJ",
+      "etag": "ZybaiA+ImYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kNBJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Senhor dos Anéis",
+        "subtitle": "Volume único",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": " Martins Editora",
+        "publishedDate": "2017-12-08",
+        "description": "Este volume está composto pela primeira (A Sociedade do Anel), segunda (As Duas Torres) e terceira parte (O Retorno do Rei) da grande obra de ficção fantástica de J. R. R. Tolkien, O Senhor dos Anéis. É impossível transmitir ao novo leitor todas as qualidades e o alcance do livro. Alternadamente cômica, singela, épica, monstruosa e diabólica, a narrativa desenvolve-se em meio a inúmeras mudanças de cenários e de personagens, num mundo imaginário absolutamente convincente em seus detalhes. Nas palavras do romancista Richard Hughes, \"quanto à amplitude imaginativa, a obra praticamente não tem paralelos e é quase igualmente notável na sua vividez e na habilidade narrativa, que mantêm o leitor preso página após página\". Tolkien criou em O Senhor dos Anéis uma nova mitologia num mundo inventado que demonstrou possuir um poder de atração atemporal.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kNBJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kNBJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=kNBJDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kNBJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kNBJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 120,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 120,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kNBJDwAAQBAJ&rdid=book-kNBJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 120000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 120000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_dos_An%C3%A9is-sample-epub.acsm?id=kNBJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_dos_An%C3%A9is-sample-pdf.acsm?id=kNBJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Este volume está composto pela primeira (A Sociedade do Anel), segunda (As Duas Torres) e terceira parte (O Retorno do Rei) da grande obra de ficção fantástica de J. R. R. Tolkien, O Senhor dos Anéis. É impossível transmitir ao novo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2yJnDwAAQBAJ",
+      "etag": "Z+eEs0cZ9MI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2yJnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Queda de Gondolin",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HarperCollins Brasil",
+        "publishedDate": "2018-08-30",
+        "description": "O último dos três Grandes Contos Perdidos do legendário de J.R.R.Tolkien narra a jornada de Tuor rumo à cidade secreta de Gondolin, refúgio élfico do povo do Rei Turgon. Contra a bela cidade, levanta-se Morgoth, o Inimigo Sombrio, com seu exército de seres malévolos. A história da Queda de Gondolin começou a ser escrita em 1916 e agora ganha vida graças ao trabalho editorial de Christopher Tolkien, filho e executor legal das obras de Tolkien. Dessa forma cumprem-se duas sinas: a dos Elfos noldorin na Primeira Era do mundo e a do autor, ao conseguir publicar individualmente os três Grandes Contos dos Dias Antigos Fechando a mitologia da Terra-média, A Queda de Gondolin, assim como Beren e Lúthien e Os Filhos de Húrin, foi ricamente ilustrada pelo renomado artista britânico Alan Lee, que retrata a fantasia de Tolkien há mais de 30 anos.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2yJnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2yJnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=2yJnDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2yJnDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2yJnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2yJnDwAAQBAJ&rdid=book-2yJnDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Queda_de_Gondolin-sample-epub.acsm?id=2yJnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Dessa forma cumprem-se duas sinas: a dos Elfos noldorin na Primeira Era do mundo e a do autor, ao conseguir publicar individualmente os três Grandes Contos dos Dias Antigos Fechando a mitologia da Terra-média, A Queda de Gondolin, assim ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2LeZDwAAQBAJ",
+      "etag": "BwMe65X5CCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2LeZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Hobbit",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HarperCollins Brasil",
+        "publishedDate": "2019-07-15",
+        "description": "Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos. Essa jornada fará Bilbo, Gandalf e 13 anãos atravessarem a Terra-média, passando por inúmeros perigos, sejam eles, os imensos trols, as Montanhas Nevoentas infestadas de gobelins ou a muito antiga e misteriosa Trevamata, até chegarem (se conseguirem) na Montanha Solitária. Lá está um incalculável tesouro, mas há um porém. Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler e descobrir. Lançado em 1937, O Hobbit é um divisor de águas na literatura fantástica mundial. Mais de 80 anos após a sua publicação, o livro que antecede os ocorridos em O Senhor dos Anéis continua arrebatando fãs de todas as idades, talvez pelo seu tom brincalhão com uma pitada de magia élfica, ou talvez porque J.R.R. Tolkien tenha escrito o melhor livro infanto-juvenil de todos os tempos.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2LeZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2LeZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=2LeZDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2LeZDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2LeZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 33.16,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2LeZDwAAQBAJ&rdid=book-2LeZDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 33160000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Hobbit-sample-epub.acsm?id=2LeZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler e descobrir. Lançado em 1937, O Hobbit é um divisor de águas na literatura fantástica mundial."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "byJyDwAAQBAJ",
+      "etag": "KdD2hX++0QU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/byJyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beren e Lúthien",
+        "authors": [
+          "J. R .R. Tolkien"
+        ],
+        "publisher": "HarperCollins Brasil",
+        "publishedDate": "2018-11-01",
+        "description": "O conto de Beren e Lúthien foi, ou tornou-se, elemento fundamental na evolução de O Silmarillion, os mitos e lendas da Primeira Era do Mundo concebidos por J. R. R. Tolkien. Um ano após retornar da França e da Batalha do Somme, no final de 1916, ele escreveu o conto. Essencial à história, e jamais modificado, é o destino que se impõe sobre o amor dos protagonistas: Beren é um homem mortal, enquanto Lúthien é uma elfa imortal. O pai dela, um grande senhor élfico, opõe-se ao relacionamento e, para permitir o casamento com Lúthien, impõe a Beren uma tarefa impossível de ser realizada. É esse o foco central da lenda: a tentativa incrivelmente heroica de Beren e Lúthien de, juntos, roubar uma Silmaril do maior de todos os seres malignos, Melkor, chamado Morgoth, o Sombrio Inimigo do Mundo. Neste livro, Christopher Tolkien tenta extrair a história de Beren e Lúthien da obra mais abrangente em que está inserida. Contudo, a própria lenda foi se modificando conforme novas associações foram sendo criadas dentro da narrativa maior. A fim de mostrar um pouco do processo pelo qual essa lenda da Terra-média evoluiu ao longo dos anos, ele conta a história nas próprias palavras de seu pai ao fornecer, primeiro, a forma original do texto e, em seguida, passagens em prosa e em verso de textos tardios que ilustram a narrativa à medida que ela muda. Apresentados de forma reunida pela primeira vez, esses textos revelam aspectos da história, tanto em eventos quanto em suas imediações narrativas, que posteriormente se perderam. Publicado no décimo aniversário do livro mais recente sobre a Terra-média, o best-seller internacional Os Filhos de Húrin, este novo volume também inclui desenhos e pinturas de Alan Lee, que também ilustrou O Senhor dos Anéis e O Hobbit, e que ganhou um Oscar por seu trabalho na trilogia cinematográfica de O Senhor dos Anéis.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=byJyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=byJyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=byJyDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=byJyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=byJyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=byJyDwAAQBAJ&rdid=book-byJyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Beren_e_L%C3%BAthien-sample-epub.acsm?id=byJyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "O conto de Beren e Lúthien foi, ou tornou-se, elemento fundamental na evolução de O Silmarillion, os mitos e lendas da Primeira Era do Mundo concebidos por J. R. R. Tolkien."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fVjqDwAAQBAJ",
+      "etag": "BLJFz6hT1q4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fVjqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Contos Inacabados de Númenor e da Terra-média",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2020-07-13",
+        "description": "Contos Inacabados de Númenor e da Terra-média é uma coletânea de narrativas que vão desde os Dias Antigos da Terra-média até o final da Guerra do Anel. Dentre seus contos há um relato de Gandalf sobre como ele enviou os Anãos para Bolsão, uma descrição detalhada sobre a organização militar dos Cavaleiros de Rohan, além de um relato alternativo da lenda dos filhos de Húrin. A obra contém, ainda, a única história que restou sobre as longas eras de Númenor antes de sua queda, e tudo o que se conhece sobre temas como os Cinco Magos, as Palantíri ou a lenda de Amroth. Os contos foram reunidos e editados pelo filho e herdeiro literário do autor, Christopher Tolkien, que fornece um breve comentário sobre cada história, ajudando o leitor a preencher as lacunas e a colocar cada uma no contexto dos demais escritos de seu pai.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fVjqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fVjqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=fVjqDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fVjqDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fVjqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fVjqDwAAQBAJ&rdid=book-fVjqDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_Inacabados_de_N%C3%BAmenor_e_da_Terra-sample-epub.acsm?id=fVjqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Contos Inacabados de Númenor e da Terra-média é uma coletânea de narrativas que vão desde os Dias Antigos da Terra-média até o final da Guerra do Anel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JVjJDwAAQBAJ",
+      "etag": "XpLBN7Z1J2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JVjJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Os Filhos de Húrin",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2020-02-17",
+        "description": "\"Depois da publicação de O Silmarillion, Os Filhos de Húrin é o trabalho seguinte de Christopher Tolkien como editor e curador dos manuscritos de seu pai, J.R.R. Tolkien. O livro é o terceiro dos Três Grandes Contos dos Dias Antigos e, assim como A Queda de Gondolin e Beren e Lúthien, conta com ilustrações de Alan Lee. Seis mil anos antes de o Um Anel ser destruído, a Terra-média é assombrada por Morgoth, o Primeiro Senhor Sombrio, senhor e mestre de Sauron. Húrin, um poderoso guerreiro da raça humana se recusa a trair os Elfos e, por isso, ele e sua família são amaldiçoados. Assim, os destinos de Túrin e de sua irmã Niënor são tragicamente entrelaçados. Em tom épico e trágico, a narrativa foi inspirada nas mitologias grega, finlandesa e escandinava. Seus personagens, reconhecivelmente humanos, seguem determinados a resistir, mesmo sem a menor esperança de triunfar.\"",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JVjJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JVjJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=JVjJDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JVjJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JVjJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 35.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 34.1,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JVjJDwAAQBAJ&rdid=book-JVjJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 34100000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_Filhos_de_H%C3%BArin-sample-epub.acsm?id=JVjJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Depois da publicação de O Silmarillion, Os Filhos de Húrin é o trabalho seguinte de Christopher Tolkien como editor e curador dos manuscritos de seu pai, J.R.R. Tolkien."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J_7UDwAAQBAJ",
+      "etag": "DIer2JHq/Gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J_7UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Árvore e folha",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2020-04-14",
+        "description": "Apesar de ser universalmente conhecido pelo seu magnum opus, O Senhor dos Anéis, J.R.R. Tolkien deixou um legado literário que vai muito além da Terra-média. Árvore e Folha é uma eclética, provocativa e instigante compilação de quatro trabalhos que refletem a diversidade da imaginação de Tolkien, seu profundo conhecimento da história inglesa e a amplitude de seu talento como criador de ficções modernas. A obra une de maneira mágica uma palestra, um conto, um poema mítico e outro de cunho histórico e reflexivo. O livro inicia-se com o ensaio \"Sobre Estórias de Fadas\", fruto da pauta de uma palestra ministrada pelo Professor em 1938, ainda com o cheiro da tinta de O Hobbit nas mãos. O texto discorre brilhantemente sobre o Reino Perigoso das Fadas (Elfos), suas características e o mais importante: sua importância para os adultos. Em o conto \"Folha de Cisco\" vemos Tolkien pintando um autorretrato de sua vida como escritor e artista na busca inatingível pela perfeição em seus trabalhos. O tom, inicialmente suave, vai ganhando cores mais fortes com o aprofundamento psicológico e biográfico da narrativa. Na onírica poesia \"Mitopeia\", sua paixão pelos mitos mistura realidade e fantasia ao ecoar uma famosa conversa com C.S. Lewis, que acabou por levar o amigo de volta ao Cristianismo. \"O Retorno de Beorhtnoth\" traz a faceta mais acadêmica e erudita do Tolkien. O poema faz uma brilhante conexão histórica com o antigo evento inglês de a Batalha de Maldon. Uma reflexão sobre soberba e heroísmo contada a partir de um diálogo dramático entre dois homens em um cenário de guerra. Árvore e Folha deixará os leitores ávidos por absorver tudo aquilo que as palavras desenham a cada nova paisagem, passagem, imagem e viagem.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J_7UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J_7UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=J_7UDwAAQBAJ&printsec=frontcover&dq=inauthor:tolkien&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J_7UDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J_7UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 28.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J_7UDwAAQBAJ&rdid=book-J_7UDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 28400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/%C3%81rvore_e_folha-sample-epub.acsm?id=J_7UDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Apesar de ser universalmente conhecido pelo seu magnum opus, O Senhor dos Anéis, J.R.R. Tolkien deixou um legado literário que vai muito além da Terra-média. Árvore e Folha é uma eclética, provocativa e instigante compilação de ..."
+      }
+    }
+  ]
+}

@@ -1,5 +1,11 @@
-C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\example\backend\BackendApplication.java
-C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\example\backend\BookRepository.java
-C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\example\backend\Book.java
-C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\example\backend\ServletInitializer.java
-C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\example\backend\BookController.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\application\GoodBooksApplication.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\domain\BookRating.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\domain\composite\BookRatingKey.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\domain\Reader.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\repository\BookRatingRepository.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\dto\BookRatingDTO.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\application\ServletInitializer.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\controller\BookController.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\repository\BookRepository.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\domain\Book.java
+C:\Workspace\Tutoriais\SpringReact\react-spring-mysql\backend\src\main\java\com\goodbooks\repository\ReaderRepository.java

@@ -1,0 +1,746 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 196,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PwiQDwAAQBAJ",
+      "etag": "U9Uw7LmL8Ho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PwiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Os funerais da mamãe grande",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Nos contos deste livro, uma das primeiras obras de García Márquez, respira-se o ar de Macondo: nas flores embrulhadas em jornal trazidas pela mãe do ladrão para a cova do filho; na singular cena do dentista que extrai o dente de um dos homens mais poderosos da região; no sumiço das bolas de bilhar, crime que movimenta toda a cidade em busca do cruel vilão; no esplendor da gaiola de Baltazar, encomendada e depois recusada por um coronel, santificando seu criador; na tristeza da viúva Montiel, que vive abandonada; na melodia dos pássaros que morrem e de ratos dizimados, e, finalmente, nos esplendorosos funerais da poderosa Mamãe Grande, honrados pela presença do Presidente da República e de Sua Santidade, o Papa. Os funerais da Mamãe Grande é a mistura do trivial e do fantástico, é a trágica monotonia da vida de aldeia cortada por relâmpagos de fatalidade que jogam luz inesperada e estranha sobre a alma das pessoas – é a densa humanidade e a mestria artística do grande escritor colombiano. Nos oito contos deste livro Gabriel García Márquez faz uma viagem sentimental por sua cidade natal, sem deixar de lado um olhar crítico sobre a sofrida realidade social, a pobreza da terra e o domínio dos coronéis.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=PwiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PwiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PwiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PwiQDwAAQBAJ&rdid=book-PwiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_funerais_da_mam%C3%A3e_grande-sample-epub.acsm?id=PwiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_funerais_da_mam%C3%A3e_grande-sample-pdf.acsm?id=PwiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Os funerais da Mamãe Grande é a mistura do trivial e do fantástico, é a trágica monotonia da vida de aldeia cortada por relâmpagos de fatalidade que jogam luz inesperada e estranha sobre a alma das pessoas – é a densa humanidade e ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MAqQDwAAQBAJ",
+      "etag": "WZQWOnmDBeE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MAqQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cem anos de solidão",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "O livro mais importante de Gabriel Garcia Márquez. Neste que é um dos maiores clássicos da literatura, o prestigiado autor narra a incrível e triste história dos Buendía – a estirpe de solitários para a qual não será dada \"uma segunda oportunidade sobre a terra\" e apresenta o maravilhoso universo da fictícia Macondo, onde se passa o romance. É lá que acompanhamos diversas gerações dessa família, assim como a ascensão e a queda do vilarejo. Para além dos artifícios técnicos e das influências literárias que transbordam do livro, ainda vemos em suas páginas o que por muitos é considerado uma autêntica enciclopédia do imaginário, num estilo que consagrou o colombiano como um dos maiores autores do século XX.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MAqQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MAqQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=MAqQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MAqQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MAqQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 42.66,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MAqQDwAAQBAJ&rdid=book-MAqQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 42660000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cem_anos_de_solid%C3%A3o-sample-epub.acsm?id=MAqQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cem_anos_de_solid%C3%A3o-sample-pdf.acsm?id=MAqQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "O livro mais importante de Gabriel Garcia Márquez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KgqQDwAAQBAJ",
+      "etag": "O64Lv57xxg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KgqQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Do amor e outros demônios",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Um livro sobre o desejo que elege as paixões e atinge as raízes mais profundas do ser humano: o amor. Em 1949, o convento histórico de Santa Clara seria vendido para a construção de um hotel cinco estrelas no local. E Gabriel García Márquez, um jovem repórter, é designado para acompanhar a remoção das criptas funerárias da capela. O que mais impressinou este colombiano foi o túmulo de uma menina, que o fez lembrar as lendas contadas por sua avó. Segundo ela, no Caribe, havia uma marquesinha que tinha uma \"cabeleira que se arrastava como a cauda de um vestido de noiva\". Venerada por seus milagres, ela foi mordida por um cachorro e morreu de raiva. Seria aquela marquesinha de sua infância ali enterrada? García Márquez conta a história da filha única de um marquês, criada no convívio de escravos e orixás, e um padre incumbido de exorcizar os demônios que se acredita terem possuído a pequena, cujos cabelos só seriam cortados em seu casamento.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KgqQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KgqQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=KgqQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KgqQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KgqQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KgqQDwAAQBAJ&rdid=book-KgqQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Do_amor_e_outros_dem%C3%B4nios-sample-epub.acsm?id=KgqQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Do_amor_e_outros_dem%C3%B4nios-sample-pdf.acsm?id=KgqQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Em 1949, o convento histórico de Santa Clara seria vendido para a construção de um hotel cinco estrelas no local. E Gabriel García Márquez, um jovem repórter, é designado para acompanhar a remoção das criptas funerárias da capela."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SQiQDwAAQBAJ",
+      "etag": "+A5hM/jFAAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SQiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O veneno da madrugada (A má hora)",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "UM ROMANCE DE UM DOS MAIORES AUTORES LATINO-AMERICANOS A tranquilidade de um vilarejo é abalada quando misteriosos bilhetes são espalhados por toda a cidade, pregados nas portas das casas, denunciando crimes, traições e segredos inconfessáveis. Quando começou a escrever Ovenenodamadrugada, García Márquez tinha planejado apenas um conto. Mas a história cresceu tão rápido que ele imediatamente percebeu que tinha nas mãos um romance. Escrito numa época em que o autor vivia sob o impacto e a influência do cinema italiano neorrealista, da descoberta de Albert Camus e de Ernest Hemingway, este livro sela a rara aliança entre a limpidez e a intrincada elaboração de estilo, entre as faíscas da poesia que iriam impregnar cada vez mais sua obra e a estrutura fragmentada, cinematográfica, que mantém a tensão o tempo inteiro.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=SQiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SQiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SQiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 42.66,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SQiQDwAAQBAJ&rdid=book-SQiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 42660000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_veneno_da_madrugada_A_m%C3%A1_hora-sample-epub.acsm?id=SQiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_veneno_da_madrugada_A_m%C3%A1_hora-sample-pdf.acsm?id=SQiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Quando começou a escrever Ovenenodamadrugada, García Márquez tinha planejado apenas um conto. Mas a história cresceu tão rápido que ele imediatamente percebeu que tinha nas mãos um romance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TwiQDwAAQBAJ",
+      "etag": "5tt4YBvjsCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TwiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Viver para contar",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "VIVER PARA CONTAR é provavelmente o livro mais esperado da década, síntese e recriação de um tempo crucial da vida de Gabriel García Márquez. Neste apaixonante relato, o Prêmio Nobel colombiano oferece a memória de seus anos de infância e juventude, aqueles em que se funda o imaginário de suas narrativas e romances, clássicos do século XX.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=TwiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TwiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TwiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 50.26,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TwiQDwAAQBAJ&rdid=book-TwiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 50260000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Viver_para_contar-sample-epub.acsm?id=TwiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Viver_para_contar-sample-pdf.acsm?id=TwiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "VIVER PARA CONTAR é provavelmente o livro mais esperado da década, síntese e recriação de um tempo crucial da vida de Gabriel García Márquez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UwiQDwAAQBAJ",
+      "etag": "0daFNc6plcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UwiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Eu não vim fazer um discurso",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Aos 80 anos, Gabriel García Márquez trabalha, fala, se move e cria como se cada segundo fosse imprescindível. Um dos raros escritores vivos a merecer a alcunha de \"grande\", Gabo surpreende a cada novo trabalho. Em Eu não vim fazer um discurso mostra-se um encantador de plateias, embora sempre admita não se sentir muito confortável na posição de destaque que o microfone confere a quem o usa. Neste apaixonante relato, o Prêmio Nobel colombiano oferece a memória de seus discursos. Textos que nos ajudam a compreender mais profundamente sua vida e nos revelam as maiores obsessões como escritor e cidadão: a fervorosa vocação para a literatura, sua proposta de simplificar a gramática, a paixão pelo jornalismo, a inquietude ante o desastre ecológico que se anuncia. Aqui também analisa os problemas da Colômbia e a lembrança emocionada de amigos escritores como Julio Cortázar e Álvaro Mutis, entre muitos outros. O início da carreira, como jornalista, também está presente nessas deliciosas histórias. Filho de um operador de telégrafo colombiano, Gabo nos brinda neste livro com a memória de mais de seis décadas de seu pensamento. De rapaz humilde, porém sagaz e curioso, a um dos monstros sagrados da literatura mundial. Eu não vim fazer um discurso é o complemento indispensável a uma das mais importantes obras narrativas do último século. Sempre sublime, Gabriel García Márquez presenteia-nos com esta jóia narrativa repleta de sabedoria, memória e bom humor, que confere ainda mais brilho à sua genialidade literária.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UwiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=UwiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UwiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UwiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UwiQDwAAQBAJ&rdid=book-UwiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Eu_n%C3%A3o_vim_fazer_um_discurso-sample-epub.acsm?id=UwiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Eu_n%C3%A3o_vim_fazer_um_discurso-sample-pdf.acsm?id=UwiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Aos 80 anos, Gabriel García Márquez trabalha, fala, se move e cria como se cada segundo fosse imprescindível."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PQiQDwAAQBAJ",
+      "etag": "k2a2rLTeh+M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PQiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O amor nos tempos do cólera",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Ainda muito jovem, o telegrafista, violinista e poeta Gabriel Elígio Garciá se apaixonou por Luiza Márquez, mas o romance enfrentou a oposição do pai da moça, coronel Nicolas, que tentou impedir o casamento enviando a filha ao interior numa viagem de um ano. Para manter seu amor, Gabriel montou, com a ajuda de amigos telegrafistas, uma rede de comunicação que alcançava Luiza onde ela estivesse. Essa é a história real dos pais de Gabriel García Márquez e foi ponto de partida de O amor nos tempos do cólera, que acompanha a paixão do telegrafista, violinista e poeta Florentino Ariza por Fermina Daza.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=PQiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PQiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PQiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 45.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PQiQDwAAQBAJ&rdid=book-PQiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 45500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_amor_nos_tempos_do_c%C3%B3lera-sample-epub.acsm?id=PQiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_amor_nos_tempos_do_c%C3%B3lera-sample-pdf.acsm?id=PQiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Essa é a história real dos pais de Gabriel García Márquez e foi ponto de partida de O amor nos tempos do cólera, que acompanha a paixão do telegrafista, violinista e poeta Florentino Ariza por Fermina Daza."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TQiQDwAAQBAJ",
+      "etag": "GupwkEQ/aIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TQiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O outono do patriarca",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "García Márquez já se referiu a O outono do patriarca como um poema sobre a solidão do poder. Primeiro romance depois de Cem anos de solidão (1967), esta obra representa uma alegoria do autoritarismo na América Latina. Há mais de um século no comando, o patriarca de García Márquez faz o tempo avançar e retroceder em monólogos que comportam diálogos, construídos com imagens que evocam a loucura e o lirismo, descentrando a história, a geografia, a linguagem. Com idade indefinida entre 107 e 232 anos, ele vaga num universo onde tudo conduz à lembrança do tempo acumulado. • Prêmio Nobel de literatura.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=TQiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TQiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TQiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 26.94,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 25.59,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TQiQDwAAQBAJ&rdid=book-TQiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26940000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 25590000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_outono_do_patriarca-sample-epub.acsm?id=TQiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_outono_do_patriarca-sample-pdf.acsm?id=TQiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "García Márquez já se referiu a O outono do patriarca como um poema sobre a solidão do poder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LgqQDwAAQBAJ",
+      "etag": "nKaZWIaOeXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LgqQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Olhos de cão azul",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Reunindo 11 contos escritos entre 1947 e 1955, Olhos de cão azul é uma introdução à obra de Gabriel García Márquez. Com todos os textos relacionados à morte, o autor apresenta as perspectivas, os motivos, a liberdade e a fantasia de seu estilo que já o consagrou na história da literatura. García Márquez recria a realidade hispano-americana mágica, inserindo nela o homem contemporâneo com sua problemática existencial, seus enigmas e seus sonhos.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LgqQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LgqQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=LgqQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LgqQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LgqQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LgqQDwAAQBAJ&rdid=book-LgqQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Olhos_de_c%C3%A3o_azul-sample-epub.acsm?id=LgqQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Olhos_de_c%C3%A3o_azul-sample-pdf.acsm?id=LgqQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Reunindo 11 contos escritos entre 1947 e 1955, Olhos de cão azul é uma introdução à obra de Gabriel García Márquez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QQiQDwAAQBAJ",
+      "etag": "MrcGPv08Jhs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QQiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ninguém escreve ao coronel",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "2019-04-03",
+        "description": "Enquanto espera o pagamento de sua aposentadoria pelo correio, um coronel reformado luta para sobreviver em uma cidadezinha hostil. Ao seu lado, apenas a mulher asmática e um galo de briga que pertencia a seu falecido filho. A correspondência sempre chega uma vez por semana, às sextas-feiras, mas a aposentadoria não, perdida nos trâmites burocráticos. \"Ninguém escreve ao coronel\", diz com desdém o carteiro. Uma trama simples, mas repleta de ironia e comentários sutis sobre a história e a política de seu país.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QQiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=QQiQDwAAQBAJ&printsec=frontcover&dq=inauthor:gabriel+garcia+marquez&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QQiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QQiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QQiQDwAAQBAJ&rdid=book-QQiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ningu%C3%A9m_escreve_ao_coronel-sample-epub.acsm?id=QQiQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ningu%C3%A9m_escreve_ao_coronel-sample-pdf.acsm?id=QQiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A correspondência sempre chega uma vez por semana, às sextas-feiras, mas a aposentadoria não, perdida nos trâmites burocráticos. &quot;Ninguém escreve ao coronel&quot;, diz com desdém o carteiro."
+      }
+    }
+  ]
+}

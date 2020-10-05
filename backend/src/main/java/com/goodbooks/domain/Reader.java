@@ -1,6 +1,5 @@
-package com.goodbooks.model;
+package com.goodbooks.domain;
 
-import java.util.Date;
 import java.util.List;
 
 import javax.persistence.Entity;
@@ -21,7 +20,7 @@ import lombok.NoArgsConstructor;
 public class Reader {
     @Id
     @GeneratedValue
-    private int id;
+    private Long id;
     private String name;
 
     @ManyToMany

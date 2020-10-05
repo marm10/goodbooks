@@ -1,18 +1,14 @@
-package com.goodbooks.model;
+package com.goodbooks.domain;
 
 import java.math.BigDecimal;
-import java.util.Date;
-import java.util.List;
 
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.MapsId;
 
-import com.goodbooks.model.composite.BookRatingKey;
+import com.goodbooks.domain.composite.BookRatingKey;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

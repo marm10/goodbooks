@@ -2,14 +2,16 @@ package com.goodbooks.controller;
 
 import java.util.List;
 
+import com.goodbooks.domain.Book;
 import com.goodbooks.dto.BookRatingDTO;
-import com.goodbooks.model.Book;
 import com.goodbooks.repository.BookRatingRepository;
 import com.goodbooks.repository.BookRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Sort;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -25,7 +27,7 @@ public class BookController {
 
     @GetMapping("/")
     public List<Book> gBooks() {
-        return bookRepository.findAll();
+        return bookRepository.findAll(Sort.by("title"));
     }
 
     @GetMapping("/topTen")
@@ -34,10 +36,10 @@ public class BookController {
     }
 
 
-    //@GetMapping("/{id}")
-    //public Book getUser(@PathVariable Integer id) {
-    //    return userRepository.findById(id).orElse(null);
-    //}
+    @GetMapping("/{id}")
+    public Book getUser(@PathVariable Long id) {
+        return bookRepository.findById(id).orElse(null);
+    }
 
     //@PostMapping("/")
     //public Book postUser(@RequestBody Book user) {

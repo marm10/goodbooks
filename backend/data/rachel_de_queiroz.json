@@ -1,0 +1,746 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 10,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gbhcBAAAQBAJ",
+      "etag": "6UebQRD1F3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gbhcBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Melhores Crônicas Rachel de Queiroz",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Global Editora e Distribuidora Ltda",
+        "publishedDate": "2015-09-04",
+        "description": "Em sua atividade como cronista, Rachel de Queiroz realizou alguns milagres (literários), como o de interessar o leitor (vários tipos de leitores, no tempo e no espaço) durante quase oitenta anos (exatos 77 anos). Deve ter batido alguns recordes. J. Carlos dizia que os seus desenhos davam para cobrir toda a avenida Rio Branco. As crônicas de Rachel devem igualar ou superar esse feito. E como o maravilhoso caricaturista, sem nunca decair de suas qualidades habituais: o tom de conversa, em ritmo quase nordestino, o domínio perfeito da língua, dosando com sabedoria a contribuição popular e o rigor clássico, em frases que \"se movem em leves lufadas cômodas, variadas com habilidade magnífica\" (Mário de Andrade). Rachel começou a colaborar na imprensa lá pelo ano de 1939, quando se transferiu do Ceará para o Rio de Janeiro. Como declarou, a imprensa foi a sua \"trincheira\". Dessa trincheira disparou artigos, reportagens, mas sobretudo crônicas - parte das quais estão recolhidas em treze livros -,crônicas que traçam uma espécie de autobiografia espiritual de sua autora, mas também um retrato colorido de oito décadas de vida brasileira: testemunhos sobre fatos históricos, quadros da vida carioca ou nordestina, perfis de figuras conhecidas ou populares interessantes, intimidades de famílias, reflexões sobre a vida humana, o tempo, a morte, o amor, que tudo está contido na vida, e a cronista tinha olhos de ver e amar (ou se indignar) com cada fato da vida. Várias dessas crônicas são, na verdade, contos nos quais Rachel exercitava as suas qualidades de ficcionista. Era como uma mudança temporária de instrumento, a sanfona pela viola, ou vice-versa, sem jamais perder o tom e o ritmo ou deixar de fascinar o leitor. A sua conversa sempre enfeitiçava e continua enfeitiçando. É só começar.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.418.339.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gbhcBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gbhcBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=gbhcBAAAQBAJ&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gbhcBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gbhcBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 31.5,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gbhcBAAAQBAJ&rdid=book-gbhcBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31500000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Melhores_Cr%C3%B4nicas_Rachel_de_Queiroz-sample-epub.acsm?id=gbhcBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Melhores_Cr%C3%B4nicas_Rachel_de_Queiroz-sample-pdf.acsm?id=gbhcBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Em sua atividade como cronista, Rachel de Queiroz realizou alguns milagres (literários), como o de interessar o leitor (vários tipos de leitores, no tempo e no espaço) durante quase oitenta anos (exatos 77 anos)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kuMJU0BSLZwC",
+      "etag": "Tj3hfJmjCLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kuMJU0BSLZwC",
+      "volumeInfo": {
+        "title": "O Quinze",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Editora José Olympio",
+        "publishedDate": "2012-03-03",
+        "description": "Rachel de Queiroz está de volta à sua velha casa. A José Olympio comprou os direitos de publicação de suas obras, que serão relançadas com novo projeto gráfico. O Quinze foi o primeiro e mais popular romance da escritora. A história se dá em dois planos: um enfocando o vaqueiro Chico Bento e sua família; o outro, a relação afetiva entre Vicente, rude proprietário e criador de gado, e Conceição, sua prima culta e professora.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.41.36.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kuMJU0BSLZwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kuMJU0BSLZwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=kuMJU0BSLZwC&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kuMJU0BSLZwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kuMJU0BSLZwC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 32.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.26,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kuMJU0BSLZwC&rdid=book-kuMJU0BSLZwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31260000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Quinze-sample-epub.acsm?id=kuMJU0BSLZwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Quinze-sample-pdf.acsm?id=kuMJU0BSLZwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Rachel de Queiroz está de volta à sua velha casa. A José Olympio comprou os direitos de publicação de suas obras, que serão relançadas com novo projeto gráfico. O Quinze foi o primeiro e mais popular romance da escritora."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mbR8GdTiPREC",
+      "etag": "Bp7t9bH5CBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mbR8GdTiPREC",
+      "volumeInfo": {
+        "title": "Memorial de Maria Moura",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Editora José Olympio",
+        "publishedDate": "2010-12-13",
+        "description": "Memorial de Maria Moura, Prêmio Jabuti de 1993, foi o último romance da escritora, publicado quando ela tinha 82 anos e considerado sua obra-prima. O livro se tornou sucesso de crítica e de público, principalmente após servir de base para uma minissérie de televisão, protagonizada por Glória Pires. Rachel entrou para a história da literatura brasileira por vários motivos: foi uma das precursoras do romance regionalista com O Quinze, lançado quando ela tinha 19 anos, a primeira mulher a ingressar na Academia Brasileira de Letras, em 1977, e uma das melhores cronistas brasileiras do século XX. É no Brasil rural do século XIX que se passa a história de Maria Moura. Ela tinha apenas 17 anos quando encontrou a mãe morta, foi violentada pelo padrasto e viu suas terras serem cobiçadas por primos inescrupulosos. Uma mulher vulgar sucumbiria a tantas adversidades, mas Maria Moura possuía outro temperamento.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.24.27.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mbR8GdTiPREC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mbR8GdTiPREC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=mbR8GdTiPREC&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mbR8GdTiPREC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mbR8GdTiPREC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 59.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 56.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mbR8GdTiPREC&rdid=book-mbR8GdTiPREC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 56900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Memorial_de_Maria_Moura-sample-epub.acsm?id=mbR8GdTiPREC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Memorial_de_Maria_Moura-sample-pdf.acsm?id=mbR8GdTiPREC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Memorial de Maria Moura, Prêmio Jabuti de 1993, foi o último romance da escritora, publicado quando ela tinha 82 anos e considerado sua obra-prima."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fEjYi2FO1JkC",
+      "etag": "rxo3JqB8x9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fEjYi2FO1JkC",
+      "volumeInfo": {
+        "title": "A casa do morro branco",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Editora José Olympio",
+        "publishedDate": "2008-06-04",
+        "description": "Rachel de Queiroz se consagrou como um dos grandes nomes na narrativa longa brasileira a partir da publicação do romance O Quinze, em 1930. A antologia de textos curtos A casa do Morro Branco, no entanto, vem provar que a autora também dominava perfeitamente a arte dos contos e crônicas. São 14 histórias na qual a autora expõe todas as características que marcaram obras renomadas como João Miguel, Caminho de pedras, As três Marias e Memorial de Maria Moura: análises literárias da existência humana, em seus aspectos políticos e pessoais. É um relançamento que dá continuidade ao resgate pela Editora José Olympio da obra de Rachel e de outros autores. \"Só conheço o lugar de vista. Como disse, tem um morro; não um grande morro alto, desses que mais parecem montanhas de verdade – e, pensando bem, são realmente montanhas\", escreve a autora na crônica que dá nome ao livro. \"O de lá era antes uma colina, ou isso que nós no Nordeste chamamos de 'alto', ou 'cabeço'.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.31.30.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fEjYi2FO1JkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fEjYi2FO1JkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=fEjYi2FO1JkC&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fEjYi2FO1JkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fEjYi2FO1JkC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 33.16,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fEjYi2FO1JkC&rdid=book-fEjYi2FO1JkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 33160000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_casa_do_morro_branco-sample-epub.acsm?id=fEjYi2FO1JkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_casa_do_morro_branco-sample-pdf.acsm?id=fEjYi2FO1JkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Rachel de Queiroz se consagrou como um dos grandes nomes na narrativa longa brasileira a partir da publicação do romance O Quinze, em 1930."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "plvwDwAAQBAJ",
+      "etag": "tEwCFjuZ1po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/plvwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lampião / A beata Maria do Egito",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Editora José Olympio",
+        "publishedDate": "2020-07-10",
+        "description": "\"Em Lampião e A beata Maria do Egito, temos o melhor de Rachel de Queiroz: a perfeição da linguagem, a clareza e realismo dos diálogos, os cenários nordestinos bem desenhados, a pesquisa histórica e a força indiscutível das personagens femininas\", escreve Acioli. \"Todos estes elementos nos dão a certeza de que o texto teatral de Rachel de Queiroz, desde que caiu da pena e pingou no papel, já era borboleta pronta para voar\".",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=plvwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=plvwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=plvwDwAAQBAJ&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=plvwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=plvwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=plvwDwAAQBAJ&rdid=book-plvwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lampi%C3%A3o_A_beata_Maria_do_Egito-sample-epub.acsm?id=plvwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lampi%C3%A3o_A_beata_Maria_do_Egito-sample-pdf.acsm?id=plvwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Em Lampião e A beata Maria do Egito, temos o melhor de Rachel de Queiroz: a perfeição da linguagem, a clareza e realismo dos diálogos, os cenários nordestinos bem desenhados, a pesquisa histórica e a força indiscutível das ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "appWDwAAQBAJ",
+      "etag": "xGrJcLnB1IY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/appWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "As três Marias",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "Editora José Olympio",
+        "publishedDate": "2018-04-20",
+        "description": "Nova edição de As três Marias com prefácio de Heloísa Buarque de Hollanda e fortuna crítica com textos de Mário de Andrade e Fran Martins. Publicada originalmente em 1939, a obra conta a história de três amigas inseparáveis, da infância em um colégio de freiras à vida adulta. Neste romance de formação, Rachel de Queiroz retrata o processo de ajustamento ao mundo pelos olhos das meninas e convida o leitor a acompanhá-las desde os medos e as incertezas da juventude até o amadurecimento. Maria da Glória dedicou-se à maternidade e à família, Maria José, sempre devota, voltou a morar com a mãe e virou professora, e Maria Augusta, diferente das amigas, determinou-se a construir o próprio caminho: trabalhou como datilógrafa em Fortaleza e, lá, apaixonou-se. É quando a autora vai mais fundo na perspectiva social e na agudeza da observação psicológica. E em nada estas três Marias perdem para as três estrelas da constelação de Orion, que se destacam alinhadas e reluzentes no céu e serviram de inspiração para apelidar as personagens: notórias e brilhantes na lembrança de todos que as conhecem.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=appWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=appWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=appWDwAAQBAJ&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=appWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=appWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 36,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=appWDwAAQBAJ&rdid=book-appWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 36000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_tr%C3%AAs_Marias-sample-epub.acsm?id=appWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_tr%C3%AAs_Marias-sample-pdf.acsm?id=appWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Nova edição de As três Marias com prefácio de Heloísa Buarque de Hollanda e fortuna crítica com textos de Mário de Andrade e Fran Martins."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VuhZe6VbzPQC",
+      "etag": "ghivldOmmq8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VuhZe6VbzPQC",
+      "volumeInfo": {
+        "title": "The Three Marias",
+        "authors": [
+          "Rachel de Queiroz"
+        ],
+        "publisher": "University of Texas Press",
+        "publishedDate": "2011-05-18",
+        "description": "Through this translation of As Três Marias the literary achievements of Rachel de Queiroz may at last be judged and appreciated by the English-reading public. Since none of her four novels has previously been translated into English, The Three Marias will be, for many non-Brazilians, an introduction to this nationally known South American author whose books have been widely praised for their artistic merits. Her literary works are colored by her projected personality, by an intense feeling for her own people, by an omnipresent social consciousness, and by personal experiences in the arid backlands of her native state of Ceará. Basing this story on certain of her own recollections from the nineteen-twenties, Rachel de Queiroz tells of a girl growing up in the seaport town of Fortaleza, in northeastern Brazil. Professor Ellison, whose special field is Brazilian and Spanish-American literature, has captured in his translation the author's graceful style and simplicity of language, and has successfully retained the perspective of an idealistic and gradually maturing girl.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VuhZe6VbzPQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VuhZe6VbzPQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=VuhZe6VbzPQC&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VuhZe6VbzPQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VuhZe6VbzPQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VuhZe6VbzPQC&rdid=book-VuhZe6VbzPQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Basing this story on certain of her own recollections from the nineteen-twenties, Rachel de Queiroz tells of a girl growing up in the seaport town of Fortaleza, in northeastern Brazil."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6F1-DwAAQBAJ",
+      "etag": "hgOKIc6wzHI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6F1-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Virologia Humana e Veterinária",
+        "authors": [
+          "Rachel Siqueira de Queiroz Simões"
+        ],
+        "publisher": "Thieme Revinter Publicações LTDA",
+        "publishedDate": "2018-12-10",
+        "description": "Virologia Humana e Veterinária aborda de modo didático, pela primeira vez, a área da virologia humana em conjunto com a medicina veterinária frente às similaridades genéticas e imunopatogênicas dos vírus. Nesta obra, é apresentado o histórico do descobrimento dos vírus quanto às propriedades biológicas, classificação, morfologia, expressão gênica, transmissão, etapas da biossíntese e tropismo viral. A epidemiologia relacionada à distribuição geográfica, possíveis reservatórios animais, vacinas e resposta imunológica à infecção viral são descritos. As manifestações clínicas e síndromes associadas aos vírus oncogênicos ou não, as amostras biológicas mais utilizadas no diagnóstico sorológico e molecular para a detecção viral e o seu monitoramento também são temas desenvolvidos. Micrografias eletrônicas de partículas virais e representações esquemáticas da organização genômica dos vírus e das proteínas codificadas pelo genomaviral são exemplificadas no decorrer do livro facilitando a compreensão do leitor. Fornece princípios de biossegurança aplicada à virologia básica e molecular e boas práticas laboratoriais comoprogramas de prevenção,bemcomoapresenta lista de novas classificações em gêneros e espécies dos vírus e números de acesso das sequências no Gen Bank. Rearranjos genéticos, reagrupamento de segmentos genômicos ou recombinação são abordados ao longo dos capítulos como mecanismos de geração de diversidade genética, assim como vírus emergentes e reemergentes, e a terapêutica de escolha com base no alinhamento múltiplo de sequências de diferentes subgenótipos virais pela análise filogenética são discutidos. Este é, sem dúvida, um instrumento ímpar e de grande valia principalmente para pesquisadores, professores e estudantes na disciplina de virologia e microbiologia dos cursos de graduação e pósgraduação da área de saúde, bem como para todos que desejam aprofundar seus conhecimentos noramoda virologia clínica, ambiental,médica e científica.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6F1-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6F1-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=6F1-DwAAQBAJ&printsec=frontcover&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6F1-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6F1-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 259.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 259.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6F1-DwAAQBAJ&rdid=book-6F1-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 259990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 259990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Virologia_Humana_e_Veterin%C3%A1ria-sample-epub.acsm?id=6F1-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Virologia_Humana_e_Veterin%C3%A1ria-sample-pdf.acsm?id=6F1-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Virologia Humana e Veterinária aborda de modo didático, pela primeira vez, a área da virologia humana em conjunto com a medicina veterinária frente às similaridades genéticas e imunopatogênicas dos vírus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rZydDwAAQBAJ",
+      "etag": "3CpVVbLD6hQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rZydDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Daqui e d'além mar",
+        "subtitle": "cartas do Rio",
+        "authors": [
+          "Rachel Gutiérrez"
+        ],
+        "publisher": "Editora Jaguatirica",
+        "publishedDate": "2019-02-14",
+        "description": "Rachel Gutiérrez publica em 'Daqui e d'além mar' suas conhecidas Cartas do Rio, que falam do Rio de Janeiro e da Europa, 'em uma escrita luminosa e erudita'. Com a bela arte de Dorindo Carvalho, consagrado artista plástico português, orelha de António Gomes Marques e prefácio de Carlos Loures, a seleção de Rachel apresenta 36 cartas sobre literatura, sobre mulheres e feminismo e, por fim, sobre viagens. Em seu texto lúcido e repleto de referências culturais, Rachel fala-nos de um Brasil hostil, que pode matar-nos a esperança, mas também fala do 'Brasil criador de uma das poesias mais belas do mundo, de um povo que transpira música por todos os poros'. Sua escrita faz uma bela ponte com a Europa, atravessando os filósofos, a poesia, a pintura, e sobretudo as mulheres que se destacam e são capazes de fazer um mundo melhor.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rZydDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rZydDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=rZydDwAAQBAJ&pg=PT33&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rZydDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rZydDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rZydDwAAQBAJ&rdid=book-rZydDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Daqui_e_d_al%C3%A9m_mar-sample-epub.acsm?id=rZydDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Daqui_e_d_al%C3%A9m_mar-sample-pdf.acsm?id=rZydDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "E eu confesso que já li quatro vezes Água Viva, de Clarice Lispector, assim \u003cbr\u003e\ncomo li muitas vezes o saborosíssimo A Cidade e as Serras, do grande Eça de \u003cbr\u003e\n\u003cb\u003eQueiroz\u003c/b\u003e. Romances costumam ser enfeitiçantes e alguns são inesgotáveis. Esse \u003cbr\u003e\né o&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tNQbDgAAQBAJ",
+      "etag": "pUUw2HfFm2U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tNQbDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Listening to Ayahuasca",
+        "subtitle": "New Hope for Depression, Addiction, PTSD, and Anxiety",
+        "authors": [
+          "Rachel Harris, PhD"
+        ],
+        "publisher": "New World Library",
+        "publishedDate": "2017-02-14",
+        "description": "Used for thousands of years by indigenous tribes of the Amazon rain forest, the mystical brew ayahuasca is now becoming increasingly popular in the West. Psychologist Rachel Harris here shares her own healing experiences and draws on her original research (the largest study of ayahuasca use in North America) into the powerful medicine’s effects on depression, addiction, PTSD, and anxiety. In this wide-ranging and personal exploration, Harris details ayahuasca’s risks and benefits, helping readers clarify their intentions and giving psychotherapists a template for transformative care and healing.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tNQbDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tNQbDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=tNQbDgAAQBAJ&pg=PT147&dq=inauthor:rachel+de+queiroz&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tNQbDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tNQbDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 106.21,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 106.21,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tNQbDgAAQBAJ&rdid=book-tNQbDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 106210000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 106210000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Listening_to_Ayahuasca-sample-epub.acsm?id=tNQbDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Listening_to_Ayahuasca-sample-pdf.acsm?id=tNQbDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "But a few years afterward, Bronson served as a translator for Edson \u003cb\u003eQueiroz\u003c/b\u003e, a \u003cbr\u003e\nmedical doctor and psychic surgeon from Brazil. During a healing demonstration \u003cbr\u003e\nin California (where else?), Dr. \u003cb\u003eQueiroz\u003c/b\u003e requested that the spirit possessing a&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import BookList from './BookList';
 import {Menu, Row, Col, Table} from "antd";
+import Home from './Home';
 
 function App() {
   const columns = [
@@ -24,7 +25,7 @@ function App() {
 
   return (
     <div className="container">
-        <BookList />
+        <Home />
     </div>
   );
 }

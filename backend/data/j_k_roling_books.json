@@ -1,0 +1,747 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 276,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GjgQCwAAQBAJ",
+      "etag": "qVBoTR4p5ZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GjgQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Pedra Filosofal",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Harry Potter é um garoto cujos pais, feiticeiros, foram assassinados por um poderosíssimo bruxo quando ele ainda era um bebê. Ele foi levado, então, para a casa dos tios que nada tinham a ver com o sobrenatural. No dia de seu aniversário de 11 anos, Harry descobre sua verdadeira história e seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o homem que assassinou seus pais. Potter fica sabendo que é a única pessoa a ter sobrevivido a um ataque do tal bruxo do mal e essa é a causa da marca em forma de raio que ele carrega na testa. Ele não é um garoto qualquer, ele sequer é um feiticeiro qualquer; ele é Harry Potter, símbolo de poder, resistência e um líder natural entre os sobrenaturais.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.16.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GjgQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GjgQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=GjgQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GjgQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GjgQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GjgQCwAAQBAJ&rdid=book-GjgQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Pedra_Filosofal-sample-epub.acsm?id=GjgQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Pedra_Filosofal-sample-pdf.acsm?id=GjgQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Quando virou o envelope, com a mão trêmula, Harry viu um lacre de cera púrpura com um brasão; um leão, uma águia, um texugo e uma cobra circulando uma grande letra &quot;H&quot;. Harry Potter nunca havia ouvido falar de Hogwarts quando as ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qDYQCwAAQBAJ",
+      "etag": "EJm/TyesmSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qDYQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o prisioneiro de Azkaban",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "As aulas estão de volta a Hogwarts e Harry Potter não vê a hora de embarcar no Expresso a vapor que o levará de volta à escola de bruxaria. Lá ele reencontra Rony e Hermione, seus melhores amigos em Hogwarts e, para sua surpresa, é procurado pelo próprio Ministro da Magia. Sem que Harry saiba, o ministro está preocupado com o garoto, pois fugiu da prisão de Azkaban o perigoso bruxo Sirius Black. Para piorar a situação, os terríveis guardas de Azkaban, conhecidos por dementadores, estão de guarda nos portões da escola, caso Sirius Black tente algo contra Harry. Por fim, Harry tem de enfrentar seu inimigo para salvar Rony e obrigado a escolher entre matar ou não aquele que traiu seus pais.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qDYQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qDYQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=qDYQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ&rdid=book-qDYQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_prisioneiro_de_Azkaban-sample-epub.acsm?id=qDYQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_prisioneiro_de_Azkaban-sample-pdf.acsm?id=qDYQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Bem-vindo ao ônibus Nôitibus Andante, o transporte de emergência para bruxos e bruxas perdidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9TcQCwAAQBAJ",
+      "etag": "2GfklQAkbBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9TcQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Ordem da Fênix",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Harry não é mais um garoto. Aos 15 anos, continua sofrendo a rejeição dos Dursdley, sua estranhíssima família no mundo dos \"trouxas\". Também continua contando com Rony Weasley e Hermione Granger, seus melhores amigos em Hogwarts, para levar adiante suas investigações e aventuras. Neste quinto livro da saga, Harry vai enfrentar as investidas de Voldemort sem a proteção de Dumbledore, já que o diretor de Hogwarts é afastado da escola. E vai ser sem a ajuda de seu protetor que o jovem herói enfrentará descobertas sobre a personalidade controversa de seu pai, Tiago Potter, e a já anunciada morte de alguém muito próximo.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9TcQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9TcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=9TcQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ&rdid=book-9TcQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Ordem_da_F%C3%AAnix-sample-epub.acsm?id=9TcQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Ordem_da_F%C3%AAnix-sample-pdf.acsm?id=9TcQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Harry não é mais um garoto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-bF2CwAAQBAJ",
+      "etag": "3QsoyMdW8W4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-bF2CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter: A Coleção Completa (1-7)",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2016-01-28",
+        "description": "Todos os sete e-books da premiadíssima série Harry Potter, fenômeno de vendas em todo o mundo, disponíveis em um único download com maravilhosas capas ilustradas por Olly Moss. Desfrute das histórias que cativaram a imaginação de milhões ao redor do mundo.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-bF2CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-bF2CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=-bF2CwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-bF2CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-bF2CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 159.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 159.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-bF2CwAAQBAJ&rdid=book--bF2CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 159900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 159900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_A_Cole%C3%A7%C3%A3o_Completa_1_7-sample-epub.acsm?id=-bF2CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_A_Cole%C3%A7%C3%A3o_Completa_1_7-sample-pdf.acsm?id=-bF2CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Todos os sete e-books da premiadíssima série Harry Potter, fenômeno de vendas em todo o mundo, disponíveis em um único download com maravilhosas capas ilustradas por Olly Moss."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hjcQCwAAQBAJ",
+      "etag": "wnJ/I+8cyi0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hjcQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Câmara Secreta",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Para Harry, garoto sem família e rejeitado pelos tios, Hogwarts é tudo. Portanto, quando colegas, e até professores, começam a desconfiar que ele tem alguma participação nas tragédias que estão acontecendo no colégio, a situação fica mais complicada. Até Hermione, amiga querida de Potter, é atacada pelo monstro e se transforma numa estátua. Só resta ao nosso herói tentar resolver o mistério por conta própria. Mais uma vez, ele enfrenta o terrível bruxo das trevas e... O final é surpreendente e muito divertido.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hjcQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hjcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=hjcQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hjcQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hjcQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hjcQCwAAQBAJ&rdid=book-hjcQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_C%C3%A2mara_Secreta-sample-epub.acsm?id=hjcQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_C%C3%A2mara_Secreta-sample-pdf.acsm?id=hjcQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Há uma trama, Harry Potter."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qaKkenvL29UC",
+      "etag": "NCikxlmgH5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qaKkenvL29UC",
+      "volumeInfo": {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "There it was, hanging in the sky above the school: the blazing green skull with a serpent tongue, the mark Death Eaters left behind whenever they had entered a building... wherever they had murdered... When Dumbledore arrives at Privet Drive one summer night to collect Harry Potter, his wand hand is blackened and shrivelled, but he does not reveal why. Secrets and suspicion are spreading through the wizarding world, and Hogwarts itself is not safe. Harry is convinced that Malfoy bears the Dark Mark: there is a Death Eater amongst them. Harry will need powerful magic and true friends as he explores Voldemort's darkest secrets, and Dumbledore prepares him to face his destiny...",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.16.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qaKkenvL29UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qaKkenvL29UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=qaKkenvL29UC&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qaKkenvL29UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qaKkenvL29UC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qaKkenvL29UC&rdid=book-qaKkenvL29UC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Half_Blood_Prince-sample-epub.acsm?id=qaKkenvL29UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Half_Blood_Prince-sample-pdf.acsm?id=qaKkenvL29UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "There it was, hanging in the sky above the school: the blazing green skull with a serpent tongue, the mark Death Eaters left behind whenever they had entered a building... wherever they had murdered."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gCtazG4ZXlQC",
+      "etag": "vVneX7qRpWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gCtazG4ZXlQC",
+      "volumeInfo": {
+        "title": "Harry Potter and the Deathly Hallows",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "'Give me Harry Potter,' said Voldemort's voice, 'and none shall be harmed. Give me Harry Potter, and I shall leave the school untouched. Give me Harry Potter, and you will be rewarded.' As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy...",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.14.16.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=gCtazG4ZXlQC&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gCtazG4ZXlQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gCtazG4ZXlQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gCtazG4ZXlQC&rdid=book-gCtazG4ZXlQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Deathly_Hallows-sample-epub.acsm?id=gCtazG4ZXlQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Deathly_Hallows-sample-pdf.acsm?id=gCtazG4ZXlQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Give me Harry Potter,&#39; said Voldemort&#39;s voice, &#39;and none shall be harmed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZDgQCwAAQBAJ",
+      "etag": "EVEdVvNGjes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDgQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o Cálice de Fogo",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Harry volta para a Escola de Magia e Bruxaria de Hogwarts para cursar a quarta série. Para surpresa de todos não haverá a tradicional Copa Anual de Quadribol entre Casas. Será substituída pelo Torneio Tribuxo, uma competição amistosa entre as três maiores escolas européias de bruxaria. A competição é dividida em tarefas, cuja finalidade é testar a coragem, o poder de dedução, a perícia em magia e a capacidade de enfrentar o perigo dos campeões. Inexplicavelmente Harry é escolhido pelo Cálice de Fogo para competir como um dos campeões de Hogwarts. Tendo a seu lado os fiéis amigos Rony, Hermione e agora também o seu padrinho, Sirius Black o menino feiticeiro tentará escapar mais uma vez das armadilhas de Lord Voldemort.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZDgQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZDgQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=ZDgQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ&rdid=book-ZDgQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_C%C3%A1lice_de_Fogo-sample-epub.acsm?id=ZDgQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_C%C3%A1lice_de_Fogo-sample-pdf.acsm?id=ZDgQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Harry volta para a Escola de Magia e Bruxaria de Hogwarts para cursar a quarta série."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yjUQCwAAQBAJ",
+      "etag": "XojBOrGnaWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjUQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o enigma do Príncipe",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Harry, longe de ser aquele menino magricela que vivia no quarto debaixo da escada na casa dos tios trouxas, é um dos principais nomes entre aqueles que lutam contra Voldemort, e se vê cada vez mais isolado à medida em que os rumores de que ele é O Eleito, o único capaz de derrotar o Lorde das Trevas, se espalham pelo mundo bruxo. Dois atentados contra a vida de estudantes, a certeza de Harry quanto ao envolvimento de Draco Malfoy com os Comensais da Morte e o comportamento de Snape, suspeito como sempre, adicionam ainda mais tensão ao já inquietante período.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yjUQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yjUQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=yjUQCwAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ&rdid=book-yjUQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_enigma_do_Pr%C3%ADncipe-sample-epub.acsm?id=yjUQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_enigma_do_Pr%C3%ADncipe-sample-pdf.acsm?id=yjUQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Harry, longe de ser aquele menino magricela que vivia no quarto debaixo da escada na casa dos tios trouxas, é um dos principais nomes entre aqueles que lutam contra Voldemort, e se vê cada vez mais isolado à medida em que os rumores de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1-shDAAAQBAJ",
+      "etag": "Qbd+qsaZcEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1-shDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Quadribol Através dos Séculos",
+        "authors": [
+          "J.K. Rowling",
+          "Kennilworthy Whisp"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2016-05-09",
+        "description": "Bestseller permanente no mundo bruxo e um dos livros mais populares da biblioteca de Hogwarts, QUADRIBOL ATRAVÉS DOS SÉCULOS contém tudo que você precisa saber sobre a história, as regras - e a violação dessas regras - do nobre esporte chamado Quadribol. Repleto de fatos fascinantes, este guia definitivo escrito pelo estimado especialista em quadribol Kennilworthy Whisp apresenta a história do jogo desde sua origem, nas névoas medievais do brejo de Queerditch, até o esporte moderno de hoje, idolatrado por várias famílias bruxas e trouxas em todo o mundo. Com cobertura abrangente dos times de quadribol mais famosos, as faltas mais comuns, o desenvolvimento das vassouras e muito mais, esta é uma bíblia do esporte essencial para todos os fãs de Harry Potter, amantes e jogadores de quadribol, sejam eles amadores de fim de semana ou detentores de ingresso para ver os Canhões de Chudley. Pelo menos 15% do preço de venda líquido* deste e-book estará disponível para a Comic Relief e Lumos por seu trabalho para melhorar a vida de crianças e jovens. 20% da receita será destinada à Comic Relief e 80% à Lumos. Comic Relief é uma instituição de caridade registrada no Reino Unido com os números 326568 (Inglaterra/País de Gales) e SC039730 (Escócia). Lumos Foundation é uma instituição de caridade registrada no Reino Unido com o número 1112575. *O preço de venda líquido significa o preço pago pelo consumidor subtraindo-se as taxas de venda aplicáveis.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1-shDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1-shDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=1-shDAAAQBAJ&printsec=frontcover&dq=inauthor:j+k+roling&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1-shDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1-shDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1-shDAAAQBAJ&rdid=book-1-shDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Quadribol_Atrav%C3%A9s_dos_S%C3%A9culos-sample-epub.acsm?id=1-shDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Quadribol_Atrav%C3%A9s_dos_S%C3%A9culos-sample-pdf.acsm?id=1-shDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Repleto de fatos fascinantes, este guia definitivo escrito pelo estimado especialista em quadribol Kennilworthy Whisp apresenta a história do jogo desde sua origem, nas névoas medievais do brejo de Queerditch, até o esporte moderno de ..."
+      }
+    }
+  ]
+}

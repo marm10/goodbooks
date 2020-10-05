@@ -1,0 +1,740 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 181,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "goy6DwAAQBAJ",
+      "etag": "Cnt3zmx+3qE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/goy6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Galera Chancellor",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "NoBooks Editorial",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=goy6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=goy6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=goy6DwAAQBAJ&pg=PP1&dq=inauthor:julio+verne&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=goy6DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=goy6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 6.22,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 6.22,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=goy6DwAAQBAJ&rdid=book-goy6DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6220000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 6220000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Esta obra é apresentada pelo autor sob a forma de um diário escrito na primeira pessoa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BaH_DwAAQBAJ",
+      "etag": "+tlYREfTVD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BaH_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Viaje al centro de la tierra",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "Editorial Verbum",
+        "publishedDate": "2020-09-28",
+        "description": "El profesor Liddenbrock, de Hamburgo, descubre en un viejo pergamino cómo llegar al centro de la tierra, lo que arrastrará al propio profesor, a su sobrino Axel y al guía islandés Hans a un apasionante viaje. Llegarán al interior del globo terráqueo a través de un volcán en Islandia y descubrirán un mundo maravilloso en el que vivirán las más increíbles peripecias.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BaH_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BaH_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=BaH_DwAAQBAJ&printsec=frontcover&dq=inauthor:julio+verne&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BaH_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BaH_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 47.72,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.72,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BaH_DwAAQBAJ&rdid=book-BaH_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47720000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47720000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Viaje_al_centro_de_la_tierra-sample-pdf.acsm?id=BaH_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "El profesor Liddenbrock, de Hamburgo, descubre en un viejo pergamino cómo llegar al centro de la tierra, lo que arrastrará al propio profesor, a su sobrino Axel y al guía islandés Hans a un apasionante viaje."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vCWNDwAAQBAJ",
+      "etag": "GIuO+fZpOSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vCWNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dos años de vacaciones",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "SELECTOR",
+        "description": "Prepárate para recorrer los mares de Europa con el grupo de los mejores alumnos de la escuela Chairman, de Nueva Zelanda, quienes como premio al esfuerzo realizado durante todo un año escolar, zarparan en el Soughi, un barco que el papa de uno de estos 14 alumnos a prestado gustosos para la travesía. Una noche antes de emprender el viaje, Briant, Sntiago, Webb, Wilcox y varios más, duermen tranquilamente sin darse cuenta de que alguien soltó la amarra que sujetaba el Sloughi al muelle y… de pronto descubren que se encuentran ya navegando en altamar. ¿A dónde llegaran estos inquietos alumnos?, ¿Qué aventuras los esperan? Acércate a estas páginas y tú mismo lo descubrirás.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vCWNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vCWNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=vCWNDwAAQBAJ&printsec=frontcover&dq=inauthor:julio+verne&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vCWNDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vCWNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 15.94,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 15.94,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vCWNDwAAQBAJ&rdid=book-vCWNDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15940000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 15940000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dos_a%C3%B1os_de_vacaciones-sample-epub.acsm?id=vCWNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dos_a%C3%B1os_de_vacaciones-sample-pdf.acsm?id=vCWNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Prepárate para recorrer los mares de Europa con el grupo de los mejores alumnos de la escuela Chairman, de Nueva Zelanda, quienes como premio al esfuerzo realizado durante todo un año escolar, zarparan en el Soughi, un barco que el papa ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gPZvDQAAQBAJ",
+      "etag": "cUHRCwG3MG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gPZvDQAAQBAJ",
+      "volumeInfo": {
+        "title": "20,000 Leguas de viaje submarino",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "SELECTOR",
+        "publishedDate": "2016-11-05",
+        "description": "La novela 20 000 leguas de viaje submarino es la gran aventura marítima que nos heredó el escritor francés Julio Verne. En estas páginas podrás abordar el Nautilus y, junto al capitán Nemo viajar por todos los mares del mundo. En este maravilloso recorrido serás testigo del monstruo que mantenía amedrentadas a las demás embarcaciones; conocerás el extraño bosque submarino y la isla de los salvajes; recordarás por siempre el cementerio submarino; y muchísimas cosas más. Esta novela cumbre de la literatura universal está adaptada para fomentar la lectura y la imaginación en los niños.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gPZvDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gPZvDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=gPZvDQAAQBAJ&printsec=frontcover&dq=inauthor:julio+verne&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gPZvDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gPZvDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 26.57,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 26.57,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gPZvDQAAQBAJ&rdid=book-gPZvDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26570000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 26570000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/20_000_Leguas_de_viaje_submarino-sample-epub.acsm?id=gPZvDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/20_000_Leguas_de_viaje_submarino-sample-pdf.acsm?id=gPZvDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "La novela 20 000 leguas de viaje submarino es la gran aventura marítima que nos heredó el escritor francés Julio Verne."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yiWNDwAAQBAJ",
+      "etag": "K6K+xRhwjVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yiWNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Un capitán de quince años",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "SELECTOR",
+        "description": "De seguro alguna vez has viajado al mar, disfrutando de las playas y quizás hayas abordado un barco, pero tal vez no te has preguntado si te gustaría ser el capitán. Si tu respuesta es negativa, no te preocupes; pero si es afirmativa, sube las estrellitas de este navío e intégrate a la tripulación del gran Dick Sand, Un capitán de quince años. Entre aguas turbias y tranquilas, barcos abandonados, grandes ballenas, marineros sospechosos, el fiel Dingo y el pequeño Jack, Dick Sand te revelara el secreto para convertirte pronto en un capitán, después de que su padre adoptivo, el señor Weldon, muriera ahogado. Es el capitán más joven de la historia y enfrentara aventuras insospechadas. ¿Incluso así quieres unírtele? Lo decidirás cuando abras este libro.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yiWNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yiWNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=yiWNDwAAQBAJ&printsec=frontcover&dq=inauthor:julio+verne&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yiWNDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yiWNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 15.94,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 15.94,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yiWNDwAAQBAJ&rdid=book-yiWNDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15940000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 15940000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Un_capit%C3%A1n_de_quince_a%C3%B1os-sample-epub.acsm?id=yiWNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Un_capit%C3%A1n_de_quince_a%C3%B1os-sample-pdf.acsm?id=yiWNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Si tu respuesta es negativa, no te preocupes; pero si es afirmativa, sube las estrellitas de este navío e intégrate a la tripulación del gran Dick Sand, Un capitán de quince años."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Rr5DwAAQBAJ",
+      "etag": "YJknUyqPYok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Rr5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Novelistas Imprescindibles - Julio Verne",
+        "authors": [
+          "Julio Verne",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2020-06-19",
+        "description": "Bienvenidos a la serie de libros Novelistas Imprescindibles, donde les presentamos las mejores obras de autores notables.Para este libro, el crítico literario August Nemo ha elegido las dos novelas más importantes y significativas de Julio Verne que son Viaje al Centro de la Tierra y Cinco semanas en globo.Julio Verne es considerado por la crítica literaria como el inventor del género de ciencia ficción, habiendo hecho predicciones en sus libros sobre la aparición de nuevos avances científicos, como los submarinos, las máquinas voladoras y el viaje a la luna. Hasta hoy, Júlio Verne es uno de los escritores cuya obra ha sido más traducida a lo largo de la historia, con traducciones en 148 idiomas, según las estadísticas de la UNESCO, habiendo escrito más de 100 libros.Novelas seleccionadas para este libro:Viaje al Centro de la Tierra.Cinco semanas en globo.Este es uno de los muchos libros de la serie Novelistas Imprescindibles. Si te ha gustado este libro, busca los otros títulos de la serie, estamos seguros de que te gustarán algunos de los autores.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Rr5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Rr5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=0Rr5DwAAQBAJ&pg=PT2&dq=inauthor:julio+verne&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0Rr5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0Rr5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 12.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 12.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0Rr5DwAAQBAJ&rdid=book-0Rr5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 12900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Novelistas_Imprescindibles_Julio_Verne-sample-epub.acsm?id=0Rr5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Novelistas_Imprescindibles_Julio_Verne-sample-pdf.acsm?id=0Rr5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Julio \u003cb\u003eVerne\u003c/b\u003e (nacido el 8 de febrero de 1828 en Nantes, Francia - murió el 24 de \u003cbr\u003e\nmarzo de 1905 en Amiens), prolífico autor francés cuyos escritos sentaron gran \u003cbr\u003e\nparte de los cimientos de la ciencia ficción moderna. El padre de \u003cb\u003eVerne\u003c/b\u003e, con la&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zxr5DwAAQBAJ",
+      "etag": "6Ga16nVbeXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zxr5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Maestros de la Prosa - Julio Verne",
+        "authors": [
+          "Julio Verne",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2020-07-03",
+        "description": "Bienvenidos a la serie de libros de los Maestros de la Prosa, una selección de los mejores trabajos de autores notables.El crítico literario August Nemo selecciona los textos más importantes de cada autor. La selección se hace a partir de las novelas, cuentos, cartas, ensayos y textos biográficos de cada escritor.Esto ofrece al lector una visión general de la vida y la obra del autor.Esta edición está dedicada a Julio Verne, un escritor, poeta y dramaturgo francés célebre por sus novelas de aventuras y por su profunda influencia en el género literario de la ciencia ficción. Es uno de los escritores más importantes de Francia y de toda Europa gracias a la evidente influencia de sus libros en la literatura vanguardista y el surrealismo, y desde 1979 es el segundo autor más traducido en el mundo, después de Agatha Christie. Se le considera, junto con H. G. Wells, el \"padre de la ciencia ficción\". Fue condecorado con la Legión de Honor por sus aportes a la educación y a la ciencia.Este libro contiene los siguientes escritos:Novelas: Viaje al Centro de la Tierra; Cinco semanas en globo; Veinte mil leguas de viaje submarino; Dos años en vacaciones; Miguel Strogoff; Un capitán de quince años.Cuentos: En el siglo XXIX: la jornada de un periodista americano en el 2889.¡Si aprecias la buena literatura, asegúrate de buscar los otros títulos de Tacet Books!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zxr5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zxr5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=zxr5DwAAQBAJ&pg=PT2&dq=inauthor:julio+verne&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zxr5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zxr5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zxr5DwAAQBAJ&rdid=book-zxr5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Maestros_de_la_Prosa_Julio_Verne-sample-epub.acsm?id=zxr5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Maestros_de_la_Prosa_Julio_Verne-sample-pdf.acsm?id=zxr5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Julio \u003cb\u003eVerne\u003c/b\u003e (nacido el 8 de febrero de 1828 en Nantes, Francia - murió el 24 de \u003cbr\u003e\nmarzo de 1905 en Amiens), prolífico autor francés cuyos escritos sentaron gran \u003cbr\u003e\nparte de los cimientos de la ciencia ficción moderna. El padre de \u003cb\u003eVerne\u003c/b\u003e, con la&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZKNjDwAAQBAJ",
+      "etag": "moWVKwQ+IlM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKNjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Colección de Julio Verne",
+        "subtitle": "Clásicos de la literatura",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2015-07-13",
+        "description": "Este ebook presenta \"Colección de Julio Verne\" con un sumario dinámico y detallado. Julio Verne fue precursor de la ciencia ficción y de la moderna novela de aventuras. Fue un estudioso de la ciencia y la tecnología de su época, lo que --unido a su gran imaginación y a su capacidad de anticipación lógica-- le permitió adelantarse a su tiempo, describiendo entre otras cosas los submarinos (en Veinte mil leguas de viaje submarino), el helicóptero (en Robur el conquistador), el viaje a la Luna (De la tierra a la luna). Tabla de contenidos: Veinte mil leguas de viaje submarino Alrededor de la Luna La vuelta al mundo en ochenta días Viaje al centro de la Tierra Miguel Strogoff Julio Verne (1828 - 1905). Escritor francés, considerado el fundador de la moderna literatura de ciencia ficción. Fue célebre por sus relatos de aventuras fantásticas, narradas siempre con un tono de verosimilitud científica. Predijo con gran precisión en sus relatos fantásticos la aparición de algunos de los productos generados por el avance tecnológico del siglo XX, como la televisión, los helicópteros, los submarinos o las naves espaciales.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZKNjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZKNjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=ZKNjDwAAQBAJ&pg=PP1&dq=inauthor:julio+verne&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZKNjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZKNjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 2.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZKNjDwAAQBAJ&rdid=book-ZKNjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Colecci%C3%B3n_de_Julio_Verne-sample-epub.acsm?id=ZKNjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Colecci%C3%B3n_de_Julio_Verne-sample-pdf.acsm?id=ZKNjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Clásicos de la literatura Julio \u003cb\u003eVerne\u003c/b\u003e. COLECCIÓNDE WERNE Julio \u003cb\u003eVerne\u003c/b\u003e \u003cbr\u003e\nColección de Julio \u003cb\u003eVerne\u003c/b\u003e (Clásicos de la literatura). Front Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "amrGBgAAQBAJ",
+      "etag": "vmJT+aKrSjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/amrGBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Jules Verne - Obras completas",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "Greenbooks editore",
+        "publishedDate": "2015-02-22",
+        "description": "Jules Gabriel Verne (Nantes, 8 de febrero de 1828-Amiens, 24 de marzo de 1905), conocido en los países de lengua española como Julio Verne, fue un escritor, poeta y dramaturgo francés célebre por sus novelas de aventuras y por su profunda influencia en el género literario de la ciencia ficción. Este colección con índice totalmente activo incluye los siguientes 7 libros: - CINCO SEMANA EN GLOBO; - DE LA TIERRA A LA LUNA; - EL CASTILLO DE LOS CÁRPATOS; - EL FARO DEL FIN DEL MUNDO; - LA VUELTA AL MUNDO EN 80 DÍAS; - MIGUEL STROGOFF; - VEINTE MIL LEGUAS DE VIAJE SUBMARINO.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=amrGBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=amrGBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=amrGBgAAQBAJ&pg=PT459&dq=inauthor:julio+verne&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=amrGBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=amrGBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 9.54,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 9.54,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=amrGBgAAQBAJ&rdid=book-amrGBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9540000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 9540000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Jules_Verne_Obras_completas-sample-epub.acsm?id=amrGBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Jules_Verne_Obras_completas-sample-pdf.acsm?id=amrGBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Julio \u003cb\u003eVerne\u003c/b\u003e. aguardiente que se elevaba a unos 50 galones y agua nada más \u003cbr\u003e\nque para dos meses, pues, según las últimas observaciones de los astrónomos \u003cbr\u003e\nnadie podía poner en duda la presencia de cierta cantidad de agua en la&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W3ZCBAAAQBAJ",
+      "etag": "KwTQJmAuDiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W3ZCBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las mejores novelas de Julio Verne (con índice activo)",
+        "authors": [
+          "Julio Verne"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2014-03-24",
+        "description": "Este ebook presenta \"Las mejores novelas de Julio Verne (con índice activo)” con un sumario dinámico y detallado. Julio Verne fue precursor de la ciencia ficción y de la moderna novela de aventuras. Fue un estudioso de la ciencia y la tecnología de su época, lo que —unido a su gran imaginación y a su capacidad de anticipación lógica— le permitió adelantarse a su tiempo, describiendo entre otras cosas los submarinos (en Veinte mil leguas de viaje submarino), el helicóptero (en Robur el conquistador), el viaje a la Luna (De la tierra a la luna). Tabla de contenidos: Veinte mil leguas de viaje submarino Alrededor de la Luna La vuelta al mundo en ochenta días Viaje al centro de la Tierra Miguel Strogoff Julio Verne (1828 - 1905). Escritor francés, considerado el fundador de la moderna literatura de ciencia ficción. Fue célebre por sus relatos de aventuras fantásticas, narradas siempre con un tono de verosimilitud científica. Predijo con gran precisión en sus relatos fantásticos la aparición de algunos de los productos generados por el avance tecnológico del siglo XX, como la televisión, los helicópteros, los submarinos o las naves espaciales.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W3ZCBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W3ZCBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=W3ZCBAAAQBAJ&pg=PP1&dq=inauthor:julio+verne&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W3ZCBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W3ZCBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 5.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W3ZCBAAAQBAJ&rdid=book-W3ZCBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Julio \u003cb\u003eVerne\u003c/b\u003e. --- - Julio \u003cb\u003eVerne\u003c/b\u003e Las mejores novelas de Julio \u003cb\u003eVerne\u003c/b\u003e (con índice. - - -\u003cbr\u003e\n----__ -_ _. Front Cover."
+      }
+    }
+  ]
+}

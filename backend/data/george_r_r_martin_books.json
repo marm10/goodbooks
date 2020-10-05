@@ -1,0 +1,757 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 173,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "EQfQDwAAQBAJ",
+      "etag": "hiNKyqc3dHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EQfQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A dança dos dragões",
+        "authors": [
+          "George R.R. Martin"
+        ],
+        "publisher": "Suma",
+        "publishedDate": "2020-03-25",
+        "description": "A dança dos dragões é o quinto livro da saga As Crônicas de Gelo e Fogo, dando continuidade à trama de O festim dos corvos e trazendo personagens novos e conhecidos em disputas acirradas por um reino à beira da ruína. É outono em Westeros, e a Guerra dos Cinco Reis parece finalmente entrar na reta final. Stannis Baratheon se instala no Norte e jura conquistar o apoio dos senhores da região para continuar sua luta pelo trono, embora seja atrapalhado pela invasão de homens de ferro em grande parte da costa. Na Muralha, Jon Snow é eleito o 998o Senhor Comandante da Patrulha da Noite, mas inimigos o cercam de todos os lados, tanto na Patrulha quanto para além da Muralha. Enquanto isso, Tyrion Lannister atravessa o Mar Estreito rumo a Pentos, sem objetivos definidos, sem aliados e cada vez mais sem opções. Na Baía dos Escravos, Daenerys Targaryen conquista a cidade de Meereen e decide ficar e governá-la, praticando as habilidades de liderança que serão tão necessárias quando partir para Westeros. No entanto, sua presença já foi notada por muitos senhores nos Sete Reinos, e das Ilhas de Ferro e de Dorne, de Vilavelha e das Cidades Livres, emissários estão a caminho, querendo se unir à sua causa e, se possível, usá-la para os próprios fins. Em todos os cantos conflitos ganham vida e traições vêm daqueles mais próximos. Guerreiros, selvagens, nobres e escravos – todos têm pela frente um longo inverno, enquanto destino, ambição e política ditam o ritmo da dança mais perigosa de todas. \"Cheio de personagens vividamente construídos, reviravoltas inesperadas, suspense e momentos de crueldade inacreditável, A dança dos dragões é tudo o que uma fantasia épica deve ser: emocionante, convincente, detalhada e imensamente criativa.\" — The Washington Post",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EQfQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EQfQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=EQfQDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EQfQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EQfQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EQfQDwAAQBAJ&rdid=book-EQfQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_dan%C3%A7a_dos_drag%C3%B5es-sample-epub.acsm?id=EQfQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_dan%C3%A7a_dos_drag%C3%B5es-sample-pdf.acsm?id=EQfQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A dança dos dragões é o quinto livro da saga As Crônicas de Gelo e Fogo, dando continuidade à trama de O festim dos corvos e trazendo personagens novos e conhecidos em disputas acirradas por um reino à beira da ruína. É outono em ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m3lvDwAAQBAJ",
+      "etag": "s4N/pElXhR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m3lvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fogo & Sangue – Volume 1",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "Suma",
+        "publishedDate": "2018-11-20",
+        "description": "A arrebatadora história dos Targaryen ganha vida neste novo livro de George R.R. Martin, autor de As Crônicas de Gelo e Fogo, série que inspirou a adaptação de sucesso da HBO, \"Game of Thrones\". Séculos antes dos eventos de A guerra dos tronos, a Casa Targaryen – única família de senhores dos dragões a sobreviver à Destruição de Valíria – tomou residência em Pedra do Dragão. A história de Fogo & Sangue começa com o lendário Aegon, o Conquistador, criador do Trono de Ferro, e segue narrando as gerações de Targaryen que lutaram para manter o assento, até a guerra civil que quase destruiu sua dinastia. O que realmente aconteceu durante a Dança dos Dragões? Por que era tão perigoso visitar Valíria depois da Destruição? Quais foram os piores crimes de Maegor, o Cruel? Essas são algumas das questões respondidas neste livro essencial, relatadas por um sábio meistre da Cidadela. Ricamente ilustrado com mais de oitenta imagens assinadas pelo artista Doug Wheatley, Fogo & Sangue dará aos leitores uma nova e completa visão da fascinante história de Westeros – um livro imperdível para os fãs do autor.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m3lvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m3lvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=m3lvDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m3lvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m3lvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m3lvDwAAQBAJ&rdid=book-m3lvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fogo_Sangue_Volume_1-sample-epub.acsm?id=m3lvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fogo_Sangue_Volume_1-sample-pdf.acsm?id=m3lvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A arrebatadora história dos Targaryen ganha vida neste novo livro de George R.R. Martin, autor de As Crônicas de Gelo e Fogo, série que inspirou a adaptação de sucesso da HBO, &quot;Game of Thrones&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ug6UDwAAQBAJ",
+      "etag": "N5rEo3ZhXEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ug6UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A fúria dos reis",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "Suma",
+        "publishedDate": "2019-04-23",
+        "description": "Nesta emocionante sequência de A guerra dos tronos, George R. R. Martin cria uma obra incomparável. A fúria dos reis nos transporta para um mundo de festas e vinganças, feitiçaria e disputas, diferente de tudo que já foi feito. Um cometa da cor de fogo e sangue corta os céus. E, da antiga cidadela de Pedra do Dragão às costas áridas de Winterfell, reina o caos. Em A fúria dos reis, seis facções disputam o controle de uma terra dividida e o direito de ocupar o Trono de Ferro de Westeros – e estão dispostos a encarar tempestades, levantes e guerras para isso. Nesta história, irmão trama contra irmão e os mortos se levantam para caminhar pela noite. Aqui, uma princesa se disfarça de menino órfão, um cavaleiro se prepara para encarar uma pérfida feiticeira e bárbaros descem das Montanhas da Lua para saquear os campos. Em um contexto de incesto e fratricídio, alquimia e assassinato, a vitória será dos homens e mulheres que possuírem o mais frio aço... e o mais frio coração. Pois, quando se desperta a fúria dos reis, a terra inteira treme. \"Martin corresponde a todas as expectativas criadas por A guerra dos tronos e dá continuidade ao que está destinada a ser a melhor série de fantasia já escrita.\" — The Denver Post",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ug6UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ug6UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=ug6UDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ug6UDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ug6UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ug6UDwAAQBAJ&rdid=book-ug6UDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_f%C3%BAria_dos_reis-sample-epub.acsm?id=ug6UDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_f%C3%BAria_dos_reis-sample-pdf.acsm?id=ug6UDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Nesta emocionante sequência de A guerra dos tronos, George R. R. Martin cria uma obra incomparável. A fúria dos reis nos transporta para um mundo de festas e vinganças, feitiçaria e disputas, diferente de tudo que já foi feito."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DLKMDwAAQBAJ",
+      "etag": "upQRJUl4uPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DLKMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A guerra dos tronos",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "Suma",
+        "publishedDate": "2019-03-25",
+        "description": "A guerra dos tronos é o primeiro livro da série best-seller internacional As Crônicas de Gelo e Fogo, que deu origem à adaptação de sucesso da HBO, Game of Thrones. O verão pode durar décadas. O inverno, toda uma vida. E a guerra dos tronos começou. Como Guardião do Norte, lorde Eddard Stark não fica feliz quando o rei Robert o proclama a nova Mão do Rei. Sua honra o obriga a aceitar o cargo e deixar seu posto em Winterfell para rumar para a corte, onde os homens fazem o que lhes convém, não o que devem... e onde um inimigo morto é algo a ser admirado. Longe de casa e com a família dividida, Eddard se vê cada vez mais enredado nas intrigas mortais de Porto Real, sem saber que perigos ainda maiores espreitam a distância. Nas florestas ao norte de Winterfell, forças sobrenaturais se espalham por trás da Muralha que protege a região. E, nas Cidades Livres, o jovem Rei Dragão exilado na Rebelião de Robert planeja sua vingança e deseja recuperar sua herança de família: o Trono de Ferro de Westeros. \"A guerra dos tronos é a maior obra de fantasia desde que Bilbo encontrou o Anel.\" — SF Reviews",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DLKMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DLKMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=DLKMDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DLKMDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DLKMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DLKMDwAAQBAJ&rdid=book-DLKMDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_guerra_dos_tronos-sample-epub.acsm?id=DLKMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_guerra_dos_tronos-sample-pdf.acsm?id=DLKMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A guerra dos tronos é o primeiro livro da série best-seller internacional As Crônicas de Gelo e Fogo, que deu origem à adaptação de sucesso da HBO, Game of Thrones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hsDNDwAAQBAJ",
+      "etag": "m+M5d3AePus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hsDNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "American Hero",
+        "subtitle": "A Wild Cards Novel",
+        "authors": [
+          "George R. R. Martin",
+          "Wild Cards Trust"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2020-03-03",
+        "description": "Soon to be a show on Hulu! Rights to develop Wild Cards have been acquired by Universal Cable Productions, the team behind The Magicians and Mr. Robot, with the co-editor of Wild Cards, Melinda Snodgrass, as executive producer. In this bitingly satirical companion novel to the Wild Cards title Inside Straight, American Hero combines two quintessentially pop culture phenomena: superheroes and reality TV. American Hero, the nation’s most highly anticipated competition show, kicks off its first season! People with incredible powers – from possessing death-defying healing to transforming into an insect swarm to shifting the earth itself – have been selected from all walks of life. Their goal: to win one million dollars and the admiration of millions more viewers by answering one question, “Do you have what it takes to be the next American Hero?” Contains week-by-week action-packed recaps and no-holds-bars contestant confessionals, all edited by New York Times #1 bestselling author George R. R. Martin. Features writing by Martin as well as Carrie Vaughn, Melinda M. Snodgrass, Walter Jon Williams, Victor Milan, Daniel Abraham, Stephen Leigh, and many more of the genre’s most innovative writers. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hsDNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hsDNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=hsDNDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hsDNDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hsDNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 27.05,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.05,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hsDNDwAAQBAJ&rdid=book-hsDNDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27050000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27050000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "In this bitingly satirical companion novel to the Wild Cards title Inside Straight, American Hero combines two quintessentially pop culture phenomena: superheroes and reality TV. American Hero, the nation’s most highly anticipated ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7O9P486Lcb8C",
+      "etag": "xOFToS39bxw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7O9P486Lcb8C",
+      "volumeInfo": {
+        "title": "Wild Cards II: Aces High",
+        "authors": [
+          "George R. R. Martin",
+          "Wild Cards Trust"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2011-12-20",
+        "description": "Soon to be a TV show on Hulu! After the alien virus struck humanity in the wake of World War II, a handful of the survivors found they possessed superhuman powers. The Wild Cards shared-world volumes tell their story. Here in book two, Wild Cards II: Aces High, we trace these heroes and villains through the tumultuous 1980s, both like and unlike our own. Now, after centuries of travel through space, an extraterrestrial being called the Swarm is headed for Earth. Meanwhile, some of the aces given superpowers by the virus are hatching conspiracies to control the human world. These factions are about to collide...and the fallout could be catastrophic. Featuring stories from SF and fantasy giants such as George R. R. Martin, Roger Zelazny, Pat Cadigan, Lewis Shiner, Walter Jon Williams, and others. Rights to develop Wild Cards for TV have been acquired by Universal Cable Productions, the team that brought you The Magicians and Mr. Robot, with the co-editor of Wild Cards, Melinda Snodgrass as executive producer. The Wild Cards Universe The Original Triad #1 Wild Cards #2 Aces High #3 Jokers Wild The Puppetman Quartet #4: Aces Abroad #5: Down and Dirty #6: Ace in the Hole #7: Dead Man’s Hand The Rox Triad #8: One-Eyed Jacks #9: Jokertown Shuffle #10: Dealer’s Choice #11: Double Solitaire #12: Turn of the Cards The Card Sharks Triad #13: Card Sharks #14: Marked Cards #15: Black Trump #16: Deuces Down #17: Death Draws Five The Committee Triad #18: Inside Straight #19: Busted Flush #20: Suicide Kings The Fort Freak Triad #21: Fort Freak #22: Lowball #23: High Stakes The American Triad #24: Mississippi Roll #25: Low Chicago #26: Texas Hold 'Em At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7O9P486Lcb8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7O9P486Lcb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=7O9P486Lcb8C&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7O9P486Lcb8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7O9P486Lcb8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 40.6,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 40.6,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7O9P486Lcb8C&rdid=book-7O9P486Lcb8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40600000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 40600000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "The Wild Cards shared-world volumes tell their story. Here in book two, Wild Cards II: Aces High, we trace these heroes and villains through the tumultuous 1980s, both like and unlike our own."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m8bUDwAAQBAJ",
+      "etag": "WuhcrnK12BM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m8bUDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fevre Dream",
+        "authors": [
+          "George R.R. Martin"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2020-07-09",
+        "description": "Abner Marsh has had his dearest wish come true - he has built the Fevre Dream, the finest steamship ever to sail the Mississippi. Abner hopes to race the boat some day, but his partner is making it hard for him to realise his ambition. Joshua York put up the money for the Fevre Dream, but now rumours have started about the company he keeps, his odd eating habits and strange hours. As the Dream sails the great river, it leaves in its wake one too many dark tales, until Abner is forced to face down the man who helped to make his dreams become reality.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m8bUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m8bUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=m8bUDwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m8bUDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m8bUDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 58.4,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 58.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m8bUDwAAQBAJ&rdid=book-m8bUDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 58400000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 58400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fevre_Dream-sample-epub.acsm?id=m8bUDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Abner Marsh has had his dearest wish come true - he has built the Fevre Dream, the finest steamship ever to sail the Mississippi."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i9PvStUdWz8C",
+      "etag": "es+k9c7GWtQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i9PvStUdWz8C",
+      "volumeInfo": {
+        "title": "George R. R. Martin's A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series)",
+        "subtitle": "A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "Bantam",
+        "publishedDate": "2012-09-10",
+        "description": "For the first time, all five novels in the epic fantasy series that inspired HBO’s Game of Thrones are together in one eBook bundle. An immersive entertainment experience unlike any other, A Song of Ice and Fire has earned George R. R. Martin—dubbed “the American Tolkien” by Time magazine—international acclaim and millions of loyal readers. Now this bundle collects the entire monumental cycle in the most convenient format available: A GAME OF THRONES A CLASH OF KINGS A STORM OF SWORDS A FEAST FOR CROWS A DANCE WITH DRAGONS “One of the best series in the history of fantasy.”—Los Angeles Times Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King’s Landing. There Eddard Stark of Winterfell rules in Robert’s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse—unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season. Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen’s brothers Jaime and Tyrion of the powerful and wealthy House Lannister—the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms. Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki—whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys. “Long live George Martin . . . a literary dervish, enthralled by complicated characters and vivid language, and bursting with the wild vision of the very best tale tellers.”—The New York Times",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.36.30.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i9PvStUdWz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i9PvStUdWz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=i9PvStUdWz8C&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i9PvStUdWz8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i9PvStUdWz8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 260.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 260.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=i9PvStUdWz8C&rdid=book-i9PvStUdWz8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 260490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 260490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/George_R_R_Martin_s_A_Game_of_Thrones_5-sample-epub.acsm?id=i9PvStUdWz8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "For the first time, all five novels in the epic fantasy series that inspired HBO’s Game of Thrones are together in one eBook bundle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MwMQ_TFxfwEC",
+      "etag": "dfELhuMmexg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MwMQ_TFxfwEC",
+      "volumeInfo": {
+        "title": "Dreamsongs",
+        "subtitle": "A RRetrospective",
+        "authors": [
+          "George R.R. Martin"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2008-09-18",
+        "description": "Contains the story 'Nightflyers', now a new Netflix series. Dreamsongs Book One is the first part of a massive collection, featuring the very best of George R.R. Martin's short fiction, a dazzling array of award-winning stories from the last thirtysome years. Included in this edition is 'Nightflyers', releasing on Netflix in late 2018: Nine scientists board the Nightflyer, prepared for the voyage into deep space and to make contact with a mysterious alien race. New horizons await them at their journey's end, new knowledge, new understanding. Except all is not as it seems upon the enigmatic Nightflyer. Far from the aliens, isolation, or outer space, it may well be the greatest challenge to their mission is the ship itself . . . George R.R. Martin is one of the most exciting storytellers of our time, a stylish, elegant writer who combines riveting plots with superb characterisation. He writes with equal verve and fervour about werewolves as he does spaceships, wizards and vampires, and he has won virtually every award in the fields of fantasy literature. His epic ongoing saga A Song of Ice and Fire has redefined fantasy for a whole new generation, and won him a vast, devoted audience. Dreamsongs is a treasure chest of stories, indispensable volumes not just for all George R.R. Martin fans, but essential reading for any reader of fantastic literature. *************** 'Of those who work in the grand epic fantasy tradition, Martin is by far the best' Time Magazine 'I always expect the best from George R.R. Martin, and he always delivers' Robert Jordan 'Long live George Martin . . . A literary dervish, enthralled by complicated characters and vivid language, and bursting with the wild vision of the very best tale tellers' New York Times 'Martin's style is so vivid that you will be hooked within a few pages' The Times",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MwMQ_TFxfwEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MwMQ_TFxfwEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=MwMQ_TFxfwEC&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MwMQ_TFxfwEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MwMQ_TFxfwEC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 69.03,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 69.03,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MwMQ_TFxfwEC&rdid=book-MwMQ_TFxfwEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69030000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 69030000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dreamsongs-sample-epub.acsm?id=MwMQ_TFxfwEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Included in this edition is &#39;Nightflyers&#39;, releasing on Netflix in late 2018: Nine scientists board the Nightflyer, prepared for the voyage into deep space and to make contact with a mysterious alien race."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YzP-DwAAQBAJ",
+      "etag": "frY+KYXmEKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YzP-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "George R.R. Martin's A Clash of Kings #7",
+        "authors": [
+          "George R.R. Martin",
+          "Landry Walker"
+        ],
+        "publisher": "Dynamite Entertainment",
+        "publishedDate": "2020-09-23",
+        "description": "The horrific visions that have been plaguing Bran become reality in the most unexpected and shocking of ways as Theon Greyjoy returns to Winterfell—but not as the friend he once was. Meanwhile, Arya Stark whispers the last name owed to the Many-Faced-God, and Jaqen Hghar responds with swift and violent action at her behest. Prepare yourself as world-altering plots unfold once more in Dynamite Entertainment’s epic adaptation of George R. R. Martin’s fantasy adventure – A Song of Ice and Fire.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "84926cad9af161a8_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YzP-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YzP-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=YzP-DwAAQBAJ&printsec=frontcover&dq=inauthor:george+r+r+martin&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YzP-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YzP-DwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "0uMeGwAAABDN-M",
+              "seriesBookType": "ISSUE",
+              "orderNumber": 9
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 21.2,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 21.2,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YzP-DwAAQBAJ&rdid=book-YzP-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21200000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 21200000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/George_R_R_Martin_s_A_Clash_of_Kings_7-sample-pdf.acsm?id=YzP-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare yourself as world-altering plots unfold once more in Dynamite Entertainment’s epic adaptation of George R. R. Martin’s fantasy adventure – A Song of Ice and Fire."
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-package com.goodbooks.model.composite;
+package com.goodbooks.domain.composite;
 
 import java.io.Serializable;
 

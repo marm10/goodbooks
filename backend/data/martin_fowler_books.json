@@ -1,0 +1,717 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 167,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ri1muolw_YwC",
+      "etag": "yeTyXp8E8Qg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ri1muolw_YwC",
+      "volumeInfo": {
+        "title": "Domain-Specific Languages",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2010-09-23",
+        "description": "When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages , noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications. This book’s techniques may be utilized with most modern object-oriented languages; the author provides numerous examples in Java and C#, as well as selected examples in Ruby. Wherever possible, chapters are organized to be self-standing, and most reference topics are presented in a familiar patterns format. Armed with this wide-ranging book, developers will have the knowledge they need to make important decisions about DSLs—and, where appropriate, gain the significant technical and business benefits they offer. The topics covered include: How DSLs compare to frameworks and libraries, and when those alternatives are sufficient Using parsers and parser generators, and parsing external DSLs Understanding, comparing, and choosing DSL language constructs Determining whether to use code generation, and comparing code generation strategies Previewing new language workbench tools for creating DSLs",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ri1muolw_YwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ri1muolw_YwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=ri1muolw_YwC&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ri1muolw_YwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ri1muolw_YwC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 146.45,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 146.45,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ri1muolw_YwC&rdid=book-ri1muolw_YwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 146450000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 146450000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Armed with this wide-ranging book, developers will have the knowledge they need to make important decisions about DSLs—and, where appropriate, gain the significant technical and business benefits they offer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8uSN0Qwz2kQC",
+      "etag": "uXTaPtEjDF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8uSN0Qwz2kQC",
+      "volumeInfo": {
+        "title": "Padrões de Arquitetura de Aplicações Corporativas",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Bookman",
+        "publishedDate": "2009-01-01",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.52.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8uSN0Qwz2kQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8uSN0Qwz2kQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=8uSN0Qwz2kQC&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8uSN0Qwz2kQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8uSN0Qwz2kQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 122.4,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 101.59,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8uSN0Qwz2kQC&rdid=book-8uSN0Qwz2kQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 122400000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 101590000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Padr%C3%B5es_de_Arquitetura_de_Aplica%C3%A7%C3%B5es-sample-pdf.acsm?id=8uSN0Qwz2kQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0rGtKCNAoN0C",
+      "etag": "KQ6C9PpxBzs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0rGtKCNAoN0C",
+      "volumeInfo": {
+        "title": "Refatoração: Aperfeiçoamento e Projeto",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Bookman Editora",
+        "publishedDate": "2009-01-01",
+        "description": "Neste livro, Craig Pritchett seleciona cinco grandes enxadristas cujo estilo de jogo é o xadrez clássico - direto, claro, enérgico, resistente, ambicioso e ainda assim completamente correto. O autor apresenta as grandes contribuições desses heróis, compara seus métodos e discute como eles influenciaram e ainda influenciam o desenvolvimento do xadrez. Leia este livro para aprimorar suas habilidades e vencer mais partidas.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0rGtKCNAoN0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0rGtKCNAoN0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=0rGtKCNAoN0C&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0rGtKCNAoN0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0rGtKCNAoN0C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 128,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 128,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0rGtKCNAoN0C&rdid=book-0rGtKCNAoN0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 128000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 128000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Refatora%C3%A7%C3%A3o_Aperfei%C3%A7oamento_e_Projeto-sample-pdf.acsm?id=0rGtKCNAoN0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Neste livro, Craig Pritchett seleciona cinco grandes enxadristas cujo estilo de jogo é o xadrez clássico - direto, claro, enérgico, resistente, ambicioso e ainda assim completamente correto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xxoXcuh0oS0C",
+      "etag": "8iLr1audInE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xxoXcuh0oS0C",
+      "volumeInfo": {
+        "title": "UML Essencial: Um Breve Guia para Linguagem Padrao",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Bookman Editora",
+        "publishedDate": "2014-10-01",
+        "description": "Este livro, seguindo os padrões da série Consulta Rápida, apresenta, de forma simples e objetiva, as informações básicas para o diagnóstico seguro e rápido das patologias mais frequentes em ortopedia.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.52.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xxoXcuh0oS0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xxoXcuh0oS0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=xxoXcuh0oS0C&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xxoXcuh0oS0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xxoXcuh0oS0C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 87.2,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 87.2,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xxoXcuh0oS0C&rdid=book-xxoXcuh0oS0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 87200000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 87200000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/UML_Essencial_Um_Breve_Guia_para_Linguag-sample-pdf.acsm?id=xxoXcuh0oS0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Este livro, seguindo os padrões da série Consulta Rápida, apresenta, de forma simples e objetiva, as informações básicas para o diagnóstico seguro e rápido das patologias mais frequentes em ortopedia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HmrDHwgkbPsC",
+      "etag": "SC1wzdHCGZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HmrDHwgkbPsC",
+      "volumeInfo": {
+        "title": "Refactoring",
+        "subtitle": "Improving the Design of Existing Code",
+        "authors": [
+          "Martin Fowler",
+          "Kent Beck",
+          "John Brant",
+          "William Opdyke",
+          "Don Roberts"
+        ],
+        "publisher": "Addison-Wesley",
+        "publishedDate": "2012-03-09",
+        "description": "As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, \"non-optimal\" applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as \"refactoring,\" these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use. . .until now. In Refactoring: Improving the Design of Existing Code, renowned object technology mentor Martin Fowler breaks new ground, demystifying these master practices and demonstrating how software practitioners can realize the significant benefits of this new process. With proper training a skilled system designer can take a bad design and rework it into well-designed, robust code. In this book, Martin Fowler shows you where opportunities for refactoring typically can be found, and how to go about reworking a bad design into a good one. Each refactoring step is simple--seemingly too simple to be worth doing. Refactoring may involve moving a field from one class to another, or pulling some code out of a method to turn it into its own method, or even pushing some code up or down a hierarchy. While these individual steps may seem elementary, the cumulative effect of such small changes can radically improve the design. Refactoring is a proven way to prevent software decay. In addition to discussing the various techniques of refactoring, the author provides a detailed catalog of more than seventy proven refactorings with helpful pointers that teach you when to apply them; step-by-step instructions for applying each refactoring; and an example illustrating how the refactoring works. The illustrative examples are written in Java, but the ideas are applicable to any object-oriented programming language.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HmrDHwgkbPsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HmrDHwgkbPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=HmrDHwgkbPsC&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HmrDHwgkbPsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HmrDHwgkbPsC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 160.25,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 160.25,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HmrDHwgkbPsC&rdid=book-HmrDHwgkbPsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 160250000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 160250000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, Martin Fowler shows you where opportunities for refactoring typically can be found, and how to go about reworking a bad design into a good one. Each refactoring step is simple--seemingly too simple to be worth doing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vqTfNFDzzdIC",
+      "etag": "Veb/xzvJK5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vqTfNFDzzdIC",
+      "volumeInfo": {
+        "title": "Fowler",
+        "subtitle": "Pattern Enterpr Applica Arch",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Addison-Wesley",
+        "publishedDate": "2012-03-09",
+        "description": "The practice of enterprise application development has benefited from the emergence of many new enabling technologies. Multi-tiered object-oriented platforms, such as Java and .NET, have become commonplace. These new tools and technologies are capable of building powerful applications, but they are not easily implemented. Common failures in enterprise applications often occur because their developers do not understand the architectural lessons that experienced object developers have learned. Patterns of Enterprise Application Architecture is written in direct response to the stiff challenges that face enterprise application developers. The author, noted object-oriented designer Martin Fowler, noticed that despite changes in technology--from Smalltalk to CORBA to Java to .NET--the same basic design ideas can be adapted and applied to solve common problems. With the help of an expert group of contributors, Martin distills over forty recurring solutions into patterns. The result is an indispensable handbook of solutions that are applicable to any enterprise application platform. This book is actually two books in one. The first section is a short tutorial on developing enterprise applications, which you can read from start to finish to understand the scope of the book's lessons. The next section, the bulk of the book, is a detailed reference to the patterns themselves. Each pattern provides usage and implementation information, as well as detailed code examples in Java or C#. The entire book is also richly illustrated with UML diagrams to further explain the concepts. Armed with this book, you will have the knowledge necessary to make important architectural decisions about building an enterprise application and the proven patterns for use when building them. The topics covered include · Dividing an enterprise application into layers · The major approaches to organizing business logic · An in-depth treatment of mapping between objects and relational databases · Using Model-View-Controller to organize a Web presentation · Handling concurrency for data that spans multiple transactions · Designing distributed object interfaces",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.12.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vqTfNFDzzdIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vqTfNFDzzdIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=vqTfNFDzzdIC&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vqTfNFDzzdIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vqTfNFDzzdIC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 171.33,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 171.33,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vqTfNFDzzdIC&rdid=book-vqTfNFDzzdIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 171330000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 171330000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "This book is actually two books in one. The first section is a short tutorial on developing enterprise applications, which you can read from start to finish to understand the scope of the book&#39;s lessons."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x7XxCgAAQBAJ",
+      "etag": "chhPKCLkOKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x7XxCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Analysis Patterns",
+        "subtitle": "Reusable Object Models",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "1996-10-09",
+        "description": "This innovative book recognizes the need within the object-oriented community for a book that goes beyond the tools and techniques of the typical methodology book. In Analysis Patterns: Reusable Object Models, Martin Fowler focuses on the end result of object-oriented analysis and design—the models themselves. He shares with you his wealth of object modeling experience and his keen eye for identifying repeating problems and transforming them into reusable models. Analysis Patterns provides a catalogue of patterns that have emerged in a wide range of domains including trading, measurement, accounting and organizational relationships. Recognizing that conceptual patterns cannot exist in isolation, the author also presents a series of \"support patterns\" that discuss how to turn conceptual models into software that in turn fits into an architecture for a large information system. Included in each pattern is the reasoning behind their design, rules for when they should and should not be used, and tips for implementation. The examples presented in this book comprise a cookbook of useful models and insight into the skill of reuse that will improve analysis, modeling and implementation.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x7XxCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x7XxCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=x7XxCgAAQBAJ&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x7XxCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x7XxCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 219.62,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 219.62,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x7XxCgAAQBAJ&rdid=book-x7XxCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 219620000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 219620000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Analysis_Patterns-sample-epub.acsm?id=x7XxCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Analysis_Patterns-sample-pdf.acsm?id=x7XxCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "This innovative book recognizes the need within the object-oriented community for a book that goes beyond the tools and techniques of the typical methodology book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VTdtDwAAQBAJ",
+      "etag": "MPPwTXZnZ2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VTdtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "UML Distilled",
+        "subtitle": "A Brief Guide to the Standard Object Modeling Language",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2018-08-30",
+        "description": "More than 300,000 developers have benefited from past editions of UML Distilled . This third edition is the best resource for quick, no-nonsense insights into understanding and using UML 2.0 and prior versions of the UML. Some readers will want to quickly get up to speed with the UML 2.0 and learn the essentials of the UML. Others will use this book as a handy, quick reference to the most common parts of the UML. The author delivers on both of these promises in a short, concise, and focused presentation. This book describes all the major UML diagram types, what they're used for, and the basic notation involved in creating and deciphering them. These diagrams include class, sequence, object, package, deployment, use case, state machine, activity, communication, composite structure, component, interaction overview, and timing diagrams. The examples are clear and the explanations cut to the fundamental design logic. Includes a quick reference to the most useful parts of the UML notation and a useful summary of diagram types that were added to the UML 2.0. If you are like most developers, you don't have time to keep up with all the new innovations in software engineering. This new edition of Fowler's classic work gets you acquainted with some of the best thinking about efficient object-oriented software design using the UML--in a convenient format that will be essential to anyone who designs software professionally.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VTdtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VTdtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=VTdtDwAAQBAJ&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VTdtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VTdtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 151.03,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 151.03,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VTdtDwAAQBAJ&rdid=book-VTdtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 151030000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 151030000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/UML_Distilled-sample-epub.acsm?id=VTdtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/UML_Distilled-sample-pdf.acsm?id=VTdtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "More than 300,000 developers have benefited from past editions of UML Distilled . This third edition is the best resource for quick, no-nonsense insights into understanding and using UML 2.0 and prior versions of the UML."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6jyOUrJBJHAC",
+      "etag": "zqW8HELt79g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6jyOUrJBJHAC",
+      "volumeInfo": {
+        "title": "Refactoring",
+        "subtitle": "Ruby Edition",
+        "authors": [
+          "Jay Fields",
+          "Shane Harvie",
+          "Martin Fowler",
+          "Kent Beck"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2009-10-15",
+        "description": "The Definitive Refactoring Guide, Fully Revamped for Ruby With refactoring, programmers can transform even the most chaotic software into well-designed systems that are far easier to evolve and maintain. What’s more, they can do it one step at a time, through a series of simple, proven steps. Now, there’s an authoritative and extensively updated version of Martin Fowler’s classic refactoring book that utilizes Ruby examples and idioms throughout–not code adapted from Java or any other environment. The authors introduce a detailed catalog of more than 70 proven Ruby refactorings, with specific guidance on when to apply each of them, step-by-step instructions for using them, and example code illustrating how they work. Many of the authors’ refactorings use powerful Ruby-specific features, and all code samples are available for download. Leveraging Fowler’s original concepts, the authors show how to perform refactoring in a controlled, efficient, incremental manner, so you methodically improve your code’s structure without introducing new bugs. Whatever your role in writing or maintaining Ruby code, this book will be an indispensable resource. This book will help you Understand the core principles of refactoring and the reasons for doing it Recognize “bad smells” in your Ruby code Rework bad designs into well-designed code, one step at a time Build tests to make sure your refactorings work properly Understand the challenges of refactoring and how they can be overcome Compose methods to package code properly Move features between objects to place responsibilities where they fit best Organize data to make it easier to work with Simplify conditional expressions and make more effective use of polymorphism Create interfaces that are easier to understand and use Generalize more effectively Perform larger refactorings that transform entire software systems and may take months or years Successfully refactor Ruby on Rails code",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6jyOUrJBJHAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6jyOUrJBJHAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=6jyOUrJBJHAC&printsec=frontcover&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6jyOUrJBJHAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6jyOUrJBJHAC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 105,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 105,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6jyOUrJBJHAC&rdid=book-6jyOUrJBJHAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 105000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 105000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "This book will help you Understand the core principles of refactoring and the reasons for doing it Recognize “bad smells” in your Ruby code Rework bad designs into well-designed code, one step at a time Build tests to make sure your ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HyoEAAAAYAAJ",
+      "etag": "CV4xTNJHKwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HyoEAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Reports of Civil and Criminal Cases Decided by the Court of Appeals of Kentucky, 1785-1951",
+        "authors": [
+          "Kentucky. Court of Appeals",
+          "James Hughes",
+          "Achilles Sneed",
+          "Martin D. Hardin",
+          "George Minos Bibb",
+          "Alexander Keith Marshall",
+          "William Littell"
+        ],
+        "publishedDate": "1832",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HyoEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HyoEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=HyoEAAAAYAAJ&pg=PA429&dq=inauthor:martin+fowler&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HyoEAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HyoEAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "buyLink": "https://play.google.com/store/books/details?id=HyoEAAAAYAAJ&rdid=book-HyoEAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.br/books/download/Reports_of_Civil_and_Criminal_Cases_Deci.epub?id=HyoEAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.br/books/download/Reports_of_Civil_and_Criminal_Cases_Deci.pdf?id=HyoEAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3EWgir_6WgOuVr1L6Ej9CQSGYMPw&source=gbs_api"
+        },
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+      },
+      "searchInfo": {
+        "textSnippet": "consequence of his purchase , and under \u003cb\u003eFowler\u003c/b\u003e &#39; s \u003cb\u003eFoWLER\u003c/b\u003e &gt; title . vs Craves \u003cbr\u003e\nCRAVENS , &amp; c . Some years afterwards , Woodyard still being in possession , \u003cbr\u003e\nCravens obtained a judgment in ejectment , against several persons , who held&nbsp;..."
+      }
+    }
+  ]
+}

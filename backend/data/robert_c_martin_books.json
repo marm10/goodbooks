@@ -1,0 +1,744 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_i6bDeoCQzsC",
+      "etag": "ZDWn0MXpShE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_i6bDeoCQzsC",
+      "volumeInfo": {
+        "title": "Clean Code",
+        "subtitle": "A Handbook of Agile Software Craftsmanship",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2008-08-01",
+        "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer–but only if you work at it. What kind of work will you be doing? You’ll be reading code–lots of code. And you will be challenged to think about what’s right about that code, and what’s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code–of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.17.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=_i6bDeoCQzsC&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_i6bDeoCQzsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_i6bDeoCQzsC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 121.58,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 95.17,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_i6bDeoCQzsC&rdid=book-_i6bDeoCQzsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 121580000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 95170000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UuBU732z6zgC",
+      "etag": "2rdBH32bTxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UuBU732z6zgC",
+      "volumeInfo": {
+        "title": "The Robert C. Martin Clean Code Collection (Collection)",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2011-11-10",
+        "description": "The Robert C. Martin Clean Code Collection consists of two bestselling eBooks: Clean Code: A Handbook of Agile Software Craftmanship The Clean Coder: A Code of Conduct for Professional Programmers In Clean Code, legendary software expert Robert C. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer--but only if you work at it. You will be challenged to think about what’s right about that code and what’s wrong with it. More important, you will be challenged to reassess your professional values and your commitment to your craft. In The Clean Coder, Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice--about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act. Readers of this collection will come away understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development What it means to behave as a true software craftsman How to deal with conflict, tight schedules, and unreasonable managers How to get into the flow of coding and get past writer’s block How to handle unrelenting pressure and avoid burnout How to combine enduring attitudes with new development paradigms How to manage your time and avoid blind alleys, marshes, bogs, and swamps How to foster environments where programmers and teams can thrive When to say “No”--and how to say it When to say “Yes”--and what yes really means",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UuBU732z6zgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UuBU732z6zgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=UuBU732z6zgC&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UuBU732z6zgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UuBU732z6zgC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 118.8,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 118.8,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UuBU732z6zgC&rdid=book-UuBU732z6zgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 118800000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 118800000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Readers of this collection will come away understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ik0qCTVzl44C",
+      "etag": "WQI6ghFRO7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ik0qCTVzl44C",
+      "volumeInfo": {
+        "title": "The Clean Coder",
+        "subtitle": "A Code of Conduct for Professional Programmers",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2011-05-13",
+        "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals. In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act. Readers will learn What it means to behave as a true software craftsman How to deal with conflict, tight schedules, and unreasonable managers How to get into the flow of coding, and get past writer’s block How to handle unrelenting pressure and avoid burnout How to combine enduring attitudes with new development paradigms How to manage your time, and avoid blind alleys, marshes, bogs, and swamps How to foster environments where programmers and teams can thrive When to say “No”–and how to say it When to say “Yes”–and what yes really means Great software is something to marvel at: powerful, elegant, functional, a pleasure to work with as both a developer and as a user. Great software isn’t written by machines. It is written by professionals with an unshakable commitment to craftsmanship. The Clean Coder will help you become one of them–and earn the pride and fulfillment that they alone possess.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=ik0qCTVzl44C&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ik0qCTVzl44C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ik0qCTVzl44C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 110.5,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 110.5,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ik0qCTVzl44C&rdid=book-ik0qCTVzl44C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 110500000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 110500000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iBHWDwAAQBAJ",
+      "etag": "oIeNDGEnpjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iBHWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Arquitetura Limpa",
+        "subtitle": "O guia do artesão para estrutura e design de software",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Alta Books",
+        "publishedDate": "2019-03-25",
+        "description": "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers Código Limpo e O Codificador Limpo, o lendário artesão de software Robert C. Martin (\"Uncle Bob\") vai revelar essas regras e ajudar o leitor a aplicá-las. A Arquitetura Limpa de Martin não é só mais um catálogo de opções. Com base em meio século de experiência nos mais variados ambientes de software, Martin indica as escolhas que você deve fazer e explica por que elas são cruciais para o seu sucesso. Como já era esperado do Uncle Bob, este livro está cheio de soluções simples e diretas para os desafios reais que você enfrentará — aqueles que irão influenciar diretamente o sucesso ou fracasso dos seus projetos. - Aprenda sobre as metas dos arquitetos de software — e as principais disciplinas e práticas que podem concretizá-las; - Domine os princípios essenciais do design de software para abordar função, separação de componentes e gestão de dados; - Veja como os paradigmas de programação impõem disciplina ao restringirem as ações dos desenvolvedores; - Saiba identificar o que é crucialmente importante e o que é apenas um \"detalhe\"; - Implemente estruturas ótimas e de alto nível para web, banco de dados, thick-client, console e aplicativos incorporados; - Defina limites e camadas adequadas e organize os componentes e serviços; - Saiba por que designs e arquiteturas dão errado e como prevenir (ou corrigir) essas falhas; Arquitetura Limpa é uma leitura essencial para profissionais que já atuam ou querem ingressar no mercado, como arquitetos de software, analistas de sistemas, designers de sistemas, gerentes de software e programadores que precisam executar designs de outras pessoas.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iBHWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iBHWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=iBHWDwAAQBAJ&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iBHWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iBHWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 71.92,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iBHWDwAAQBAJ&rdid=book-iBHWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 71920000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Arquitetura_Limpa-sample-epub.acsm?id=iBHWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Arquitetura_Limpa-sample-pdf.acsm?id=iBHWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "A Arquitetura Limpa de Martin não é só mais um catálogo de opções."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GXWkDwAAQBAJ",
+      "etag": "P25WfyYUZm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GXWkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Código Limpo",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Alta Books",
+        "publishedDate": "2019-07-22",
+        "description": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim. O renomado especialista em software, Robert C. Martin, apresenta um paradigma revolucionário com Código limpo: Habilidades Práticas do Agile Software. Martin se reuniou com seus colegas do Mentor Object para destilar suas melhores e mais ágeis práticas de limpar códigos \"dinamicamente\" em um livro que introduzirá gradualmente dentro de você os valores da habilidade de um profissional de softwares e lhe tornar um programador melhor –mas só se você praticar. Que tipo de trabalho você fará? Você lerá códigos aqui, muitos códigos. E você deverá descobrir o que está correto e errado nos códigos. E, o mais importante, você terá de reavaliar seus valores profissionais e seu comprometimento com o seu ofício. Código limpo está divido em três partes. Na primeira há diversos capítulos que descrevem os princípios, padrões e práticas para criar um código limpo. A segunda parte consiste em diversos casos de estudo de complexidade cada vez maior. Cada um é um exercício para limpar um código – transformar o código base que possui alguns problemas em um melhor e eficiente. A terceira parte é a compensação: um único capítulo com uma lista de heurísticas e \"odores\" reunidos durante a criação dos estudos de caso. O resultado será um conhecimento base que descreve a forma como pensamos quando criamos, lemos e limpamos um código. Após ler este livro os leitores saberão: ✔ Como distinguir um código bom de um ruim ✔ Como escrever códigos bons e como transformar um ruim em um bom ✔ Como criar bons nomes, boas funções, bons objetos e boas classes ✔ Como formatar o código para ter uma legibilidade máxima ✔ Como implementar completamente o tratamento de erro sem obscurecer a lógica ✔ Como aplicar testes de unidade e praticar o desenvolvimento dirigido a testes Este livro é essencial para qualquer desenvolvedor, engenheiro de software, gerente de projeto, líder de equipes ou analistas de sistemas com interesse em construir códigos melhores.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GXWkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GXWkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=GXWkDwAAQBAJ&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GXWkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GXWkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 87.2,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 87.2,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GXWkDwAAQBAJ&rdid=book-GXWkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 87200000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 87200000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/C%C3%B3digo_Limpo-sample-pdf.acsm?id=GXWkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Código limpo está divido em três partes. Na primeira há diversos capítulos que descrevem os princípios, padrões e práticas para criar um código limpo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QQ6vDwAAQBAJ",
+      "etag": "4DdmFQ8hsJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QQ6vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Clean Agile",
+        "subtitle": "Back to Basics",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2019-09-12",
+        "description": "Agile Values and Principles for a New Generation “In the journey to all things Agile, Uncle Bob has been there, done that, and has the both the t-shirt and the scars to show for it. This delightful book is part history, part personal stories, and all wisdom. If you want to understand what Agile is and how it came to be, this is the book for you.” –Grady Booch “Bob’s frustration colors every sentence of Clean Agile, but it’s a justified frustration. What is in the world of Agile development is nothing compared to what could be. This book is Bob’s perspective on what to focus on to get to that ‘what could be.’ And he’s been there, so it’s worth listening.” –Kent Beck “It’s good to read Uncle Bob’s take on Agile. Whether just beginning, or a seasoned Agilista, you would do well to read this book. I agree with almost all of it. It’s just some of the parts make me realize my own shortcomings, dammit. It made me double-check our code coverage (85.09%).” –Jon Kern Nearly twenty years after the Agile Manifesto was first presented, the legendary Robert C. Martin (“Uncle Bob”) reintroduces Agile values and principles for a new generation–programmers and nonprogrammers alike. Martin, author of Clean Code and other highly influential software development guides, was there at Agile’s founding. Now, in Clean Agile: Back to Basics, he strips away misunderstandings and distractions that over the years have made it harder to use Agile than was originally intended. Martin describes what Agile is in no uncertain terms: a small discipline that helps small teams manage small projects . . . with huge implications because every big project is comprised of many small projects. Drawing on his fifty years’ experience with projects of every conceivable type, he shows how Agile can help you bring true professionalism to software development. Get back to the basics–what Agile is, was, and should always be Understand the origins, and proper practice, of SCRUM Master essential business-facing Agile practices, from small releases and acceptance tests to whole-team communication Explore Agile team members’ relationships with each other, and with their product Rediscover indispensable Agile technical practices: TDD, refactoring, simple design, and pair programming Understand the central roles values and craftsmanship play in your Agile team’s success If you want Agile’s true benefits, there are no shortcuts: You need to do Agile right. Clean Agile: Back to Basics will show you how, whether you’re a developer, tester, manager, project manager, or customer. Register your book for convenient access to downloads, updates, and/or corrections as they become available. See inside book for details.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QQ6vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QQ6vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=QQ6vDwAAQBAJ&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QQ6vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QQ6vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 132.59,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 132.59,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QQ6vDwAAQBAJ&rdid=book-QQ6vDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 132590000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 132590000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Agile-sample-epub.acsm?id=QQ6vDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Agile-sample-pdf.acsm?id=QQ6vDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "If you want to understand what Agile is and how it came to be, this is the book for you.” –Grady Booch “Bob’s frustration colors every sentence of Clean Agile, but it’s a justified frustration."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hckt7v6g09oC",
+      "etag": "IKVGYnvF9wQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hckt7v6g09oC",
+      "volumeInfo": {
+        "title": "Agile Principles, Patterns, and Practices in C#",
+        "subtitle": "AGILE PRIN PATTS PRACTS C#_1",
+        "authors": [
+          "Robert C. Martin",
+          "Micah Martin"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2006-07-20",
+        "description": "With the award-winning book Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin helped bring Agile principles to tens of thousands of Java and C++ programmers. Now .NET programmers have a definitive guide to agile methods with this completely updated volume from Robert C. Martin and Micah Martin, Agile Principles, Patterns, and Practices in C#. This book presents a series of case studies illustrating the fundamentals of Agile development and Agile design, and moves quickly from UML models to real C# code. The introductory chapters lay out the basics of the agile movement, while the later chapters show proven techniques in action. The book includes many source code examples that are also available for download from the authors’ Web site. Readers will come away from this book understanding Agile principles, and the fourteen practices of Extreme Programming Spiking, splitting, velocity, and planning iterations and releases Test-driven development, test-first design, and acceptance testing Refactoring with unit testing Pair programming Agile design and design smells The five types of UML diagrams and how to use them effectively Object-oriented package design and design patterns How to put all of it together for a real-world project Whether you are a C# programmer or a Visual Basic or Java programmer learning C#, a software development manager, or a business analyst, Agile Principles, Patterns, and Practices in C# is the first book you should read to understand agile software and how it applies to programming in the .NET Framework.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hckt7v6g09oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hckt7v6g09oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=hckt7v6g09oC&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hckt7v6g09oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hckt7v6g09oC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 196.2,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 196.2,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hckt7v6g09oC&rdid=book-hckt7v6g09oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 196200000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 196200000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Readers will come away from this book understanding Agile principles, and the fourteen practices of Extreme Programming Spiking, splitting, velocity, and planning iterations and releases Test-driven development, test-first design, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uGE1DwAAQBAJ",
+      "etag": "oE6fLkpZkaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uGE1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Clean Architecture",
+        "subtitle": "A Craftsman's Guide to Software Structure and Design",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2017-09-12",
+        "description": "Practical Software Architecture Solutions from the Legendary Robert C. Martin (“Uncle Bob”) By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them. Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects. Learn what software architects need to achieve–and core disciplines and practices for achieving it Master essential software design principles for addressing function, component separation, and data management See how programming paradigms impose discipline by restricting what developers can do Understand what’s critically important and what’s merely a “detail” Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications Define appropriate boundaries and layers, and organize components and services See why designs and architectures go wrong, and how to prevent (or fix) these failures Clean Architecture is essential reading for every current or aspiring software architect, systems analyst, system designer, and software manager–and for every programmer who must execute someone else’s designs. Register your product for convenient access to downloads, updates, and/or corrections as they become available.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.19.21.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uGE1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uGE1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=uGE1DwAAQBAJ&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 116.01,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 116.01,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ&rdid=book-uGE1DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 116010000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 116010000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Architecture-sample-epub.acsm?id=uGE1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Architecture-sample-pdf.acsm?id=uGE1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NcIjAwAAQBAJ",
+      "etag": "M7SsQSTx1bI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NcIjAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Clean Coder",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "mitp Verlags GmbH & Co. KG",
+        "publishedDate": "2014-03-24",
+        "description": "Verhaltensregeln für professionelle Programmierer Erfolgreiche Programmierer haben eines gemeinsam: Die Praxis der Software-Entwicklung ist ihnen eine Herzensangelegenheit. Auch wenn sie unter einem nicht nachlassenden Druck arbeiten, setzen sie sich engagiert ein. Software-Entwicklung ist für sie eine Handwerkskunst. In Clean Coder stellt der legendäre Software-Experte Robert C. Martin die Disziplinen, Techniken, Tools und Methoden vor, die Programmierer zu Profis machen. Dieses Buch steckt voller praktischer Ratschläge und behandelt alle wichtigen Themen vom professionellen Verhalten und Zeitmanagement über die Aufwandsschätzung bis zum Refactoring und Testen. Hier geht es um mehr als nur um Technik: Es geht um die innere Haltung. Martin zeigt, wie Sie sich als Software-Entwickler professionell verhalten, gut und sauber arbeiten und verlässlich kommunizieren und planen. Er beschreibt, wie Sie sich schwierigen Entscheidungen stellen und zeigt, dass das eigene Wissen zu verantwortungsvollem Handeln verpflichtet. In diesem Buch lernen Sie: Was es bedeutet, sich als echter Profi zu verhalten Wie Sie mit Konflikten, knappen Zeitplänen und unvernünftigen Managern umgehen Wie Sie beim Programmieren im Fluss bleiben und Schreibblockaden überwinden Wie Sie mit unerbittlichem Druck umgehen und Burnout vermeiden Wie Sie Ihr Zeitmanagement optimieren Wie Sie für Umgebungen sorgen, in denen Programmierer und Teams wachsen und sich wohlfühlen Wann Sie Nein sagen sollten – und wie Sie das anstellen Wann Sie Ja sagen sollten – und was ein Ja wirklich bedeutet Großartige Software ist etwas Bewundernswertes: Sie ist leistungsfähig, elegant, funktional und erfreut bei der Arbeit sowohl den Entwickler als auch den Anwender. Hervorragende Software wird nicht von Maschinen geschrieben, sondern von Profis, die sich dieser Handwerkskunst unerschütterlich verschrieben haben. Clean Coder hilft Ihnen, zu diesem Kreis zu gehören. Über den Autor: Robert C. Uncle Bob Martin ist seit 1970 Programmierer und bei Konferenzen in aller Welt ein begehrter Redner. Zu seinen Büchern gehören Clean Code – Refactoring, Patterns, Testen und Techniken für sauberen Code und Agile Software Development: Principles, Patterns, and Practices. Als überaus produktiver Autor hat Uncle Bob Hunderte von Artikeln, Abhandlungen und Blogbeiträgen verfasst. Er war Chefredakteur bei The C++ Report und der erste Vorsitzende der Agile Alliance. Martin gründete und leitet die Firma Object Mentor, Inc., die sich darauf spezialisiert hat, Unternehmen bei der Vollendung ihrer Projekte behilflich zu sein.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NcIjAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NcIjAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=NcIjAwAAQBAJ&printsec=frontcover&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NcIjAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NcIjAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 181.65,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 181.65,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NcIjAwAAQBAJ&rdid=book-NcIjAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 181650000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 181650000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Coder-sample-epub.acsm?id=NcIjAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Clean_Coder-sample-pdf.acsm?id=NcIjAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Software-Entwicklung ist für sie eine Handwerkskunst. In Clean Coder stellt der legendäre Software-Experte Robert C. Martin die Disziplinen, Techniken, Tools und Methoden vor, die Programmierer zu Profis machen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QuMFrGb3-noC",
+      "etag": "5MrNRKnGzxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QuMFrGb3-noC",
+      "volumeInfo": {
+        "title": "Princípios, Padrões e Práticas Ágeis em C#",
+        "authors": [
+          "Robert Martin",
+          "Micah Martin"
+        ],
+        "publisher": "Bookman Editora",
+        "publishedDate": "2009-01-01",
+        "description": "Com instruções passo a passo e ilustrações detalhadas, Soldagem oferece uma introdução acessível aos processos de brasagem, solda branda e soldabrasagem e de corte usando oxiacetileno, e às propriedades básicas de metais.Você aprenderá como montar sua própria oficina, usar corretamente equipamentos de soldagem, fazer projetos, trabalhar com segurança e obter resultados profissionais, mesmo sem experiência prévia. Abordando os mais recentes materiais, ferramentas e técnicas, este guia prático atualizado é o tutorial ideal para iniciantes, além de uma referência para soldadores experientes e fonte de consulta durante o trabalho.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QuMFrGb3-noC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QuMFrGb3-noC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com.br/books?id=QuMFrGb3-noC&pg=PR3&dq=inauthor:robert+c+martin&hl=&as_brr=5&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QuMFrGb3-noC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QuMFrGb3-noC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "listPrice": {
+          "amount": 204,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 204,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QuMFrGb3-noC&rdid=book-QuMFrGb3-noC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 204000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 204000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Princ%C3%ADpios_Padr%C3%B5es_e_Pr%C3%A1ticas_%C3%81geis-sample-pdf.acsm?id=QuMFrGb3-noC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Robert \u003cb\u003eMartin\u003c/b\u003e, Micah \u003cb\u003eMartin\u003c/b\u003e. Os autOres Robert \u003cb\u003eC\u003c/b\u003e. \u003cb\u003eMartin\u003c/b\u003e (“Tio Bob”) é fundador \u003cbr\u003e\ne presidente da Object Mentor, Inc., em Gurnee, Illinois, EUA, uma empresa \u003cbr\u003e\ninternacional que oferece consultoria em aprimoramento de processos, em \u003cbr\u003e\nprojeto&nbsp;..."
+      }
+    }
+  ]
+}
