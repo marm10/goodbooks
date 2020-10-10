@@ -2,6 +2,7 @@ import React from 'react';
 import BookList from './BookList';
 import {Menu, Row, Col, Table} from "antd";
 import Home from './Home';
+import Routes from './routes';
 
 function App() {
   const columns = [
@@ -25,7 +26,9 @@ function App() {
 
   return (
     <div className="container">
+      <Routes>
         <Home />
+      </Routes>
     </div>
   );
 }
