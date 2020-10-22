@@ -2,14 +2,12 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from './Home';
+import MyBookList from "./MyBookList";
 
 const Routes = () => (
     <BrowserRouter>
         <Switch>
-          <Route path="/about">
-            <Home />
-          </Route>
-          <Route path="/users">
+          <Route path="/interests">
             <Home />
           </Route>
           <Route path="/">
